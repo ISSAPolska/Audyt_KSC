@@ -787,5 +787,5 @@ Rekomendacje
         za podstaw&#x119; dzia&#x142;ania us&#x142;ugi kluczowej</td>
     </tr>
   </tbody>
-</table>## 
+</table>
 
