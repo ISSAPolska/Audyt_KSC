@@ -1,11 +1,5 @@
 theme: jekyll-theme-minimal
 title: Szablon Raportu audytu KSC 
-description: "Założenia projektu:
-  pierwszoplanowy: porównywalności systemu na potrzeby:
-  dalszoplanowe:
-- szybka weryfikacji poprawności realizaji przez ministra właściwego
-- realizacji funkcji normalizującej ocenę systemu cyberbezpieczeństwa
-- zgodności wykonania czynności kontrolnych
-- uzyskanie synergii w zakresie OPZ"
+description: "Projekt utworzenia systemu ładu korporacyjnego w zakresie OUK na potrzeby wykonywania weryfikacji poprawności realizaji zgoności KSC przez  ministra właściwego. Raport przy powszechonści implementacji normalizuje ocenę systemu cyberbezpieczeństwa, zgodności i powtarzalności wykonania czynności audytowych, jak również uzyskanie synergii w zakresie przygowania OPZ"
 show_downloads: "true"
 google_analytics: UA-154593377-1
