@@ -1,8 +1,11 @@
 theme: jekyll-theme-minimal
-title: Raport z audytu zgodnego z Ustawą o Krajowym Systemie CyberBezpieczeństwa 
-description: "Projekt tworzący możliwość uzyskania porównywalności systemu na potrzeby:
-- weryfikacji poprawności działania przez ministra właściwego
-- realizacji funkcji normalizującej rzeczywitą implementacje systemu
-- zgodności wykonania czynności kontrolnych"
-show_downloads: "true" 
+title: Szablon Raportu audytu KSC 
+description: "Założenia projektu:
+  pierwszoplanowy: porównywalności systemu na potrzeby:
+  dalszoplanowe:
+- szybka weryfikacji poprawności realizaji przez ministra właściwego
+- realizacji funkcji normalizującej ocenę systemu cyberbezpieczeństwa
+- zgodności wykonania czynności kontrolnych
+- uzyskanie synergii w zakresie OPZ"
+show_downloads: "true"
 google_analytics: UA-154593377-1
