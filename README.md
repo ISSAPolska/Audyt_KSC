@@ -13,13 +13,13 @@
 
 #### Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK
 
-| Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane dostawcy cyberbezpieczeństwa, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w audycie  |
+| Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane dostawcy cyberbezpieczeństwa, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w audycie |
 | :--- | :--- |
 | Zarządzanie ryzykiem |  |
 | Zarządzania incydentem |  |
 | Zarządzania zagrożeniami |  |
 | Zarządzania podatnościami |  |
-| Zarządzanie środkami technicznymi  |  |
+| Zarządzanie środkami technicznymi |  |
 | Zarządzanie środkami organizacyjnymi |  |
 | Utrzymanie i eksploatacja SI\_OUK |  |
 | Bezpieczeństwo fizyczne i środowiskowe |  |
@@ -97,6 +97,10 @@ Prace realizowane były zgodnie z następującym harmonogramem:
 7. Przygotowanie ostatecznej wersji raportu
 8. Umówienie wyników analizy luki zgodności
 
+## Wykluczenia i ograniczenia zakresu
+
+Ograniczenie zakresu nałożone na zespół audytowy, które nie pozwala na realizację celów i planów audytu określonych w ustawie lub rozporządzeniach. Ograniczenie zakresu może dotyczyć między innymi
+
 ## Wyniki prac
 
 Szczegółowe wyniki wykonanych prac obejmują ocenę zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa, w tym zidentyfikowane luki, które mogą mieć wpływ na świadczenie Usług Kluczowych.
@@ -111,7 +115,7 @@ Do oceny priorytetów dla zidentyfikowanego ryzyka braku zgodności wykorzystano
 
 **niski** - obszary mogące w opinii zespołu audytowego doprowadzić w przyszłości do incydentów lub niezgodności o wyższym priorytecie
 
-Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze zgodnie z par............ KSC 
+Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze zgodnie z par............ KSC
 
 W ramach z każdego obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
@@ -129,7 +133,7 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 * normy ISO 27001 w rozdziałach 5, 7, 9 i 10 
 * Załącznika A do normy ISO 27001 A.5, A.6 i A.18.
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 ### Dokumentacja potwierdzająca wykonane działania zgodnie z harmonogramem wskazanym w ustawie:
 
@@ -158,7 +162,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -166,7 +170,7 @@ Rekomendacje
 
 ### Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwo informacji. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwo informacji.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -178,7 +182,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * wymagania normy ISO 27001 w rozdziałach 6, 8 
 * wszystkie z wymienionych w Załączniku A do normy ISO 27001 
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### System bazujący na SZBI ISO-27001
 
@@ -222,7 +226,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -230,7 +234,7 @@ Rekomendacje
 
 ### Obszar 3: Zarządzanie ryzykiem
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności stosowanej metodyki zarządzania ryzykiem oraz kompletności procesu zarządzania ryzykiem poczynając od identyfikacji ryzyka aż po nadzór nad wprowadzeniem rekomendacji. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności stosowanej metodyki zarządzania ryzykiem oraz kompletności procesu zarządzania ryzykiem poczynając od identyfikacji ryzyka aż po nadzór nad wprowadzeniem rekomendacji.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -241,7 +245,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * normy ISO 27001 w rozdziałach 6,8,9,10 
 * Załącznika A do normy ISO 27001 A.6, A.18.
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 1. Procedury związane z identyfikacją ryzyka
 2. Procedury związane z przeglądem ryzyka
@@ -249,7 +253,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 4. Dokumentacja szacowania ryzyka dla obiektów infrastruktury
 5. Dokumentacja zapewnienia ochrony fizycznej
 
-#### Proces zarządzania ryzykiem KSC 
+#### Proces zarządzania ryzykiem KSC
 
 1. Powtarzalność identyfikacji ryzyka
 2. Poprawność zastosowanych działań w zakresie analizy 
@@ -261,15 +265,15 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
 Rekomendacje
 
-### Obszar 4: Monitorowanie i reagowanie na naruszenia bezpieczeństwa
+### Obszar 4: Monitorowanie i reagowanie na incydentami bezpieczeństwa
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie zdefiniowania wymagań, wdrożenia i konfiguracji narzędzi, ciągłego monitorowania i skutecznego reagowania na potencjalne incydenty. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie zdefiniowania wymagań, wdrożenia i konfiguracji narzędzi, ciągłego monitorowania i skutecznego reagowania na potencjalne incydenty.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -283,14 +287,14 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * wymagania normy ISO 27001 w rozdziałach 6, 8, 9,10 
 * Załącznika A do normy ISO 27001 A.6, A.12, A.16
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania Incydentami
 
 1. Procedury zarządzania incydentami
 2. Przyjęta taksonomia
-3. Procedury postępowania ze znanymi naruszeniami / incydentami
-4. Raportowanie poziomów pokrycia scenariuszami znanych naruszeń
+3. Procedury postępowania ze znanymi incydentami lub/i naruszeniami
+4. Raportowanie poziomów pokrycia scenariuszami znanych incydentów lub/i naruszeń
 5. Dokumentacja przebiegu reakcji na incydent
 6. Dostęp do miejsca, w którym przechowywana jest dokumentacja \(jeżeli tylko wirtualnie to wizja lokalna w serwerowni\)
 7. Dokumentacja dotycząca przekazywania informacji do CSIRT sektorowego / narodowego 
@@ -298,7 +302,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 9. Dokumentacja systemu do automatycznego rejestrowania zgłoszeń incydentów
 10. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-#### Monitorowanie cyberbezpieczeństwa 
+#### Monitorowanie cyberbezpieczeństwa
 
 1. Monitorowanie i wykrycie incydentów w zakresie poufności
 2. Monitorowanie i wykrycie incydentów w zakresie dostępności
@@ -320,7 +324,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -328,7 +332,7 @@ Rekomendacje
 
 ### Obszar 5: Zarządzanie zmianą
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie identyfikowania potrzeby zmian, ustalania wymagań bezpieczeństwa, wyboru rozwiązań, dokumentowania, testowania i wdrażania zmian. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie identyfikowania potrzeby zmian, ustalania wymagań bezpieczeństwa, wyboru rozwiązań, dokumentowania, testowania i wdrażania zmian.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -339,7 +343,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * wymagania normy ISO 27001 w rozdziałach 6, 8 
 * Załącznika A do normy ISO 27001 A.6, A.8, A.12, A.14, A.15, A.16
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania zmianą
 
@@ -357,7 +361,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -365,7 +369,7 @@ Rekomendacje
 
 ### Obszar 6: Zarządzanie ciągłością działania
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie dokonania analizy i zdefiniowania wymagań dla ciągłości działania, wdrożenia rozwiązań zapasowych i redundantnych, testowaniu zdolności, przygotowania odpowiednich umów z dostawcami oraz nadzorowaniu ich sposobu zapewnienia ciągłości działania. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie dokonania analizy i zdefiniowania wymagań dla ciągłości działania, wdrożenia rozwiązań zapasowych i redundantnych, testowaniu zdolności, przygotowania odpowiednich umów z dostawcami oraz nadzorowaniu ich sposobu zapewnienia ciągłości działania.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -377,7 +381,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Załącznika A do normy ISO 27001 A.6, A.17
 * wymagania normy ISO 22301 
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania ciągłością działania
 
@@ -401,7 +405,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -409,7 +413,7 @@ Rekomendacje
 
 ### Obszar 7: Utrzymanie systemów informatycznych
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -420,7 +424,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * wymagania normy ISO 27001 w rozdziałach 6, 7, 8, 9,10 
 * Załącznika A do normy ISO 27001 A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania podatnościami i zagrożeniami
 
@@ -439,7 +443,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -447,7 +451,7 @@ Rekomendacje
 
 ### Obszar 8: Utrzymanie i rozwój systemów bezpieczeństwa
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych wykorzystywanych do zapewniania, monitorowania i reagowania na incydenty bezpieczeństwa. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych wykorzystywanych do zapewniania, monitorowania i reagowania na incydenty bezpieczeństwa.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -472,7 +476,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -480,7 +484,7 @@ Rekomendacje
 
 ### Obszar 9: Bezpieczeństwo fizyczne
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie skuteczności procesu ochrony fizycznej i środowiskowej. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie skuteczności procesu ochrony fizycznej i środowiskowej.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -493,7 +497,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * wymagania normy ISO 27001 w rozdziałach 6, 8 
 * Załącznika A do normy ISO 27001 A.6, A.11
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### Pomieszczenia CSIRT/SOC/Działu
 
@@ -510,7 +514,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -518,7 +522,7 @@ Rekomendacje
 
 ### Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa infomracji oraz usług wrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia usług kluczowych. 
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa infomracji oraz usług wrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia usług kluczowych.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -529,7 +533,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * wymagania normy ISO 27001 w rozdziałach 6, 7, 8
 * Załącznika A do normy ISO 27001 A.6, A.15, A.17
 
-### Kontekst w zakresie Decyzji OUK 
+### Kontekst w zakresie Decyzji OUK
 
 #### Dostawcy OUK - dokumentacja
 
@@ -542,7 +546,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 7. Dostęp do VPN
 8. Akceptowalne użycie aktywów – lista przypadków
 
-#### Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa 
+#### Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa
 
 1. Wymagania osobowe \(Dz.U 1780 z 2018r\)
 2. Wymagania w zakresie ochrony fizycznej podmiotu
@@ -555,7 +559,7 @@ Nazwa ryzyka
 
 Priorytet ryzyka
 
-### Zalecenia 
+### Zalecenia
 
 Obserwacja
 
@@ -572,10 +576,7 @@ Rekomendacje
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Audytor Wiod&#x105;cy</p>
-      </td>
+      <td style="text-align:left">Audytor Wiod&#x105;cy</td>
       <td style="text-align:left">Audytor wyznaczony jako lider zespo&#x142;u audytowego, odpowiedzialny
         za zakres audytu, jego programu, wyb&#xF3;r technik badawczych oraz przygotowanie
         zbiorczego raportu</td>
@@ -607,65 +608,41 @@ Rekomendacje
         Cyberbezpiecze&#x144;stwa Rzeczypospolitej Polskiej</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Mechanizm kontrolny</p>
-      </td>
+      <td style="text-align:left">Mechanizm kontrolny</td>
       <td style="text-align:left">&#x15B;rodk&#xF3;w technicznych i organizacyjnych (fizyczne i informatyczne
         narz&#x119;dzia, procedury operacyjne i instrukcje oraz struktura organizacyjna)
         maj&#x105;ce na celu zmniejszanie zidentyfikowanego ryzyka. Jest to to&#x17C;same
         z terminem &#x201E;zabezpieczenie&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Najwy&#x17C;sze Kierownictwo</p>
-      </td>
+      <td style="text-align:left">Najwy&#x17C;sze Kierownictwo</td>
       <td style="text-align:left">osoba lub grupa os&#xF3;b, kt&#xF3;re na najwy&#x17C;szym szczeblu kieruj&#x105;
         organizacj&#x105; i j&#x105; nadzoruj&#x105;</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Program audytu</p>
-      </td>
+      <td style="text-align:left">Program audytu</td>
       <td style="text-align:left">przygotowany przez Audytora Wiod&#x105;cego i zatwierdzony przez Operatora
         Us&#x142;ugi Kluczowej program zadania audytowego</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Raport z audytu</p>
-      </td>
+      <td style="text-align:left">Raport z audytu</td>
       <td style="text-align:left">dokument przygotowany pod nadzorem Audytora Wiod&#x105;cego zawieraj&#x105;cy
         obserwacje (ustalenia stanu faktycznego) w zakresie zaobserwowanych niezgodno&#x15B;ci,
         ocen&#x119; systemu, klasyfikacj&#x119; zidentyfikowanego ryzyka oraz rekomendacje
         dla Kierownictwa OUK</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Skuteczno&#x15B;&#x107; mechanizmu kontrolnego</p>
-      </td>
+      <td style="text-align:left">Skuteczno&#x15B;&#x107; mechanizmu kontrolnego</td>
       <td style="text-align:left">zapewnienie, &#x17C;e mechanizm kontrolny realizuje postawione przed nim
         cele</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Zesp&#xF3;&#x142; audytowy</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>Audytor Wiod&#x105;cy oraz co najmniej jeden dodatkowy audytor przeprowadzaj&#x105;cy
-          zadanie audytowe</p>
-      </td>
+      <td style="text-align:left">Zesp&#xF3;&#x142; audytowy</td>
+      <td style="text-align:left">Audytor Wiod&#x105;cy oraz co najmniej jeden dodatkowy audytor przeprowadzaj&#x105;cy
+        zadanie audytowe</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>System informatyczny</p>
-      </td>
+      <td style="text-align:left">System informatyczny</td>
       <td style="text-align:left">system informatyczny wykorzystywany do &#x15B;wiadczenia us&#x142;ugi
         kluczowej</td>
     </tr>
@@ -703,7 +680,6 @@ Rekomendacje
       <td style="text-align:left">
         <p>bie&#x17C;&#x105;ce prace polegaj&#x105;ce na ocenie sytuacji w zarz&#x105;dzanej
           cyberprzestrzeni polegaj&#x105;ce co najmniej na:</p>
-        <p></p>
         <ul>
           <li>identyfikacji</li>
           <li>analizie</li>
@@ -717,7 +693,6 @@ Rekomendacje
         <p>szczeg&#xF3;&#x142;owy zestaw czynno&#x15B;ci wykonywanych w spos&#xF3;b
           powtarzalny i udokumentowany, a sk&#x142;adaj&#x105;cy si&#x119; z co najmniej
           faz:</p>
-        <p></p>
         <ul>
           <li>wykrywanie</li>
           <li>rejestrowanie</li>
@@ -786,6 +761,12 @@ Rekomendacje
         zestawu us&#x142;ug / produkt&#xF3;w uznanych przez organ w&#x142;a&#x15B;ciwy
         za podstaw&#x119; dzia&#x142;ania us&#x142;ugi kluczowej</td>
     </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
-</table>
+</table>Notatka Licencyjna: Dokument utworzony na bazie szablonu audytu przygotowanego przez członków „ISSA Polska Stowarzyszenie ds. Bezpieczeństwa Systemów Informacyjnych”, „Instytut Audytorów Wewnętrznych IIA Polska” na licencji MIT \([https://pl.wikipedia.org/wiki/Licencja\_MIT](https://pl.wikipedia.org/wiki/Licencja_MIT)\)
+
+Uwagi i poprawki: [https://github.com/issa-polska/Audyt\_KSC/issues](https://github.com/issa-polska/Audyt_KSC/issues)
 
