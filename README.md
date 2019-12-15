@@ -99,7 +99,15 @@ Prace realizowane były zgodnie z następującym harmonogramem:
 
 ## Wykluczenia i ograniczenia zakresu
 
-Ograniczenie zakresu nałożone na zespół audytowy, które nie pozwala na realizację celów i planów audytu określonych w ustawie lub rozporządzeniach. Ograniczenie zakresu może dotyczyć między innymi
+Ograniczenie zakresu nałożone na zespół audytowy, które nie pozwoliły na realizację szczegółowych celów i planów audytu bazujących na zapisach ustawy, rozporządzeń, metodyki lub/i charakteru organizacji. 
+
+### Ograniczenia wynikające z zagrożeń poprawności działania usługi kluczowej
+
+### Ograniczenia wynikające z niepoprawnego planowania czasu audytu
+
+### Ograniczenia wynikające z braków kompetencji w zespole audytowym
+
+
 
 ## Wyniki prac
 
