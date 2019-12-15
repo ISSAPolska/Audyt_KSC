@@ -828,7 +828,11 @@ Rekomendacje
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>Notatka Licencyjna: Dokument utworzony na bazie szablonu audytu przygotowanego przez członków „ISSA Polska Stowarzyszenie ds. Bezpieczeństwa Systemów Informacyjnych”, „Instytut Audytorów Wewnętrznych IIA Polska” na licencji MIT \([https://pl.wikipedia.org/wiki/Licencja\_MIT](https://pl.wikipedia.org/wiki/Licencja_MIT)\)
+</table>Notatka Licencyjna: `Dokument utworzony na bazie szablonu audytu przygotowanego przez członków „ISSA Polska Stowarzyszenie ds. Bezpieczeństwa Systemów Informacyjnych”, „Instytut Audytorów Wewnętrznych IIA Polska” na licencji MIT (https://pl.wikipedia.org/wiki/Licencja_MIT)`
 
 Uwagi i poprawki: [https://github.com/issa-polska/Audyt\_KSC/issues](https://github.com/issa-polska/Audyt_KSC/issues)
+
+Strona Projektu: [https://issapolska.github.io/Audyt\_KSC/](https://issapolska.github.io/Audyt_KSC/)
+
+Kontakt mailowy: ksc@issa.org.pl
 
