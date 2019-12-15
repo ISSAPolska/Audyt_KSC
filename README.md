@@ -1,6 +1,25 @@
 # Szablon raportu z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 
-### Metryka dokumentu
+### Metryka Raportu z Audytu KSC
+
+#### Metryka Audytu:
+
+| Opis | Treść |
+| :--- | :--- |
+| Audytowana Jednostka Organizacyjna |  |
+| Audytowane lokalizacje: |  |
+| Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi krytycznej z Kryteriami |
+| Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z Załącznikami |
+| Zakres Audytu - Działalność | _nazwa usługi krytycznej_ |
+| Zakres audytu -  Proces | wsparcie systemu informacyjnego dla usługi krytycznej |
+| Data\(y\) Audytu |  |
+| Data wydania Raportu |  |
+| Data Raportu Poprzedniego i ilość niezgodności |  |
+| Data Raportu poprzedniego do poprzedniego i ilość niezgodności |  |
+| Data objęcia Ustawą KSC |  |
+| Sektor |  |
+| Podsektor |  |
+| Opis progu uznania Incydentu za poważny |  |
 
 #### Odpowiedzialności instytucjonalne w OUK
 
@@ -41,6 +60,28 @@
 
 Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności, oświadczają że w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
 
+## Niezgodności z poprzednich dwóch audytów KSC
+
+Audyt poprzedni \(jeśli dotyczy\) z dnia:
+
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
+
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+
 ## Podsumowanie dla kierownictwa
 
 W dniach ...... - ....... przeprowadzono audyt zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1999\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
@@ -61,6 +102,13 @@ Kluczowymi niezgodnościami, którymi, zdaniem zespołu audytowego, w pierwszej 
 
 ........
 
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
+| :--- | :--- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 .......
 
 ## Cel i zakres prac
@@ -73,7 +121,7 @@ Celem wykonanych prac była ocena procesu zarządzania bezpieczeństwem informac
 
 Zakres prac obejmował:
 
-* zrozumienie kontekstu działania organizacji 
+* zrozumienie kontekstu działania organizacji w tym wpływy systemów IT na usługę krytyczną
 * analizę dokumentacji
 * testy skuteczności funkcjonowania mechanizmów kontrolnych
 * opracowanie raportu zawierającego opis zidentyfikowanych luk zgodności wraz z rekomendacjami
@@ -148,6 +196,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 * Czynności wykonane w terminie 3 miesięcy
 * Czynności wykonane w terminie 6 miesięcy
 * Czynności wykonane w terminie 12 miesięcy
+
+### Opis Identyfikacji systemu informacyjnego wspierającego usługę krytyczną:
+
+* lista elementów składowych
+* lista osób odpowiedzialnych
 
 ### Dokumentacja Systemu Informacyjnego wspierającego usługę kluczową
 
@@ -586,8 +639,9 @@ Rekomendacje
     <tr>
       <td style="text-align:left">Audytor Wiod&#x105;cy</td>
       <td style="text-align:left">Audytor wyznaczony jako lider zespo&#x142;u audytowego, odpowiedzialny
-        za zakres audytu, jego programu, wyb&#xF3;r technik badawczych oraz przygotowanie
-        zbiorczego raportu</td>
+        za realizacj&#x119; audytu zgodnie z zakresem, programem i ocen&#x119;
+        dowod&#xF3;w w odniesieniu do Kryteri&#xF3;w Audytu, wyb&#xF3;r technik
+        badawczych oraz przygotowanie zbiorczego raportu</td>
     </tr>
     <tr>
       <td style="text-align:left">Common Vulnerability Scoring System (CVSS)</td>
