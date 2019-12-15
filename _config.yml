@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Szablon Raportu audytu KSC 
-description: "Projekt utworzenia systemu ładu korporacyjnego w zakresie OUK na potrzeby wykonywania weryfikacji poprawności realizaji zgoności KSC przez  ministra właściwego. Raport przy powszechonści implementacji normalizuje ocenę systemu cyberbezpieczeństwa, zgodności i powtarzalności wykonania czynności audytowych, jak również uzyskanie synergii w zakresie przygowania OPZ"
+description: "Ujednolicona propozycja sprawozdawcza z raportów audytowych wyczerpująca podstawowe założenia KSC. Szablon jest przygotowany na potrzeby wykonywania sprawdzenia poprawności implementacji systemu ochrony przestrzenii cyfrowej u OUK przez Ministra Właściwego oraz właściwy CSIRT w czasie incydentu. Raport przy powszechnej implementacji znormalizuje ocenę systemu cyberbezpieczeństwa, Jego dadaniem dodatkowym jest uzyskanie zgodności i powtarzalności wykonania czynności audytowych, jak również uzyskanie synergii w zakresie przygotowania OPZ"
 show_downloads: "true"
 google_analytics: UA-154593377-1
