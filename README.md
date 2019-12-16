@@ -171,16 +171,18 @@ W ramach z każdego obszarów zgrupowano obserwacje powstałe w wyniku analizy d
 
 ### Obszar 1: Organizacja zarządzania bezpieczeństwem informacji
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie stworzenia i utrzymywania systemu zarządzania zapewniającego zgodność z KSC. Zakres prac obejmował między innymi adekwatne wymagania:
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie stworzenia i utrzymywania systemu zarządzania zapewniającego zgodność z KSC. 
 
 ### Kontekst w zakresie przepisów i normy
 
-* art 9, 14,15 i 16 KSC, 
-* Rozp. XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Rozp. 1999 w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu
-* Rozp. 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
-* normy ISO 27001 w rozdziałach 5, 7, 9 i 10 
+Zakres prac obejmował między innymi adekwatne wymagania:
+
+* Artykuł 9, 14,15 i 16 KSC, 
+* Rozporządzenie XXXX z 23 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Rozporządzenie 1999 w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu
+* Rozporządzenie 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
+* Normy ISO 27001 w rozdziałach 5, 7, 9 i 10 
 * Załącznika A do normy ISO 27001 A.5, A.6 i A.18.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -240,11 +242,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8,10,11,15 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Rozp. 2180 w sprawie progów uznania incydentu za poważny
-* wymagania normy ISO 27001 w rozdziałach 6, 8 
-* wszystkie z wymienionych w Załączniku A do normy ISO 27001 
+* Artykuł 8,10,11,15 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Rozporządzenie 2180 w sprawie progów uznania incydentu za poważny
+* Wymagania normy ISO 27001 w rozdziałach 6, 8 
+* Wszystkie z wymienionych w Załączniku A do normy ISO 27001 
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -261,7 +263,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 9. Baza konfiguracji urządzeń / inwentaryzacja aktywów 
 10. Określenie obszarów obowiązywania SZBI \(zakres\)
 
-#### Pracownicy DC – dokumentacja wskazująca na wykonywanie poniższych
+#### Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na wykonywanie poniższych
 
 1. Proces weryfikacji kandydatów \(przed zatrudnieniem\) 
 2. Podnoszenie kwalifikacji pracowników 
@@ -271,7 +273,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 6. Przydzielanie dostępu 
 7. Odbieranie dostępu
 8. Pomieszczenie w zakresie zespołu \(Dz. U. XXXX z 23.12.2019\)
-9. Dokumentacja i rozliczajnośc w zakresie VPN \(Dz. U. XXXX x 23.12.2019
+9. Dokumentacja i rozliczalność w zakresie VPN \(Dz. U. XXXX x 23.12.2019\)
 10. Dokumentacja umiejętności identyfikacji zagrożeń dla ICT / ICS – usługi kluczowej 
 11. Dokumentacja umiejętności analizowania oprogramowania szkodliwego Procedura i dokumentacja przebiegu identyfikacji wpływu oprogramowania złośliwego na usługę kluczową 
 12. Przebieg zabezpieczenia śladów kryminalistycznych 
@@ -306,9 +308,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* normy ISO 27001 w rozdziałach 6,8,9,10 
+* Artykuł 8 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Normy ISO 27001 w rozdziałach 6,8,9,10 
 * Załącznika A do normy ISO 27001 A.6, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -346,12 +348,12 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8,11,12,13 KSC
-* Rozp. XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Rozp. 2180 w sprawie progów uznania incydentu za poważny
-* Rozp. 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
-* wymagania normy ISO 27001 w rozdziałach 6, 8, 9,10 
+* Artykuł 8,11,12,13 Ustawy o Krajowym Systemie Cyberbezpieczeństwa
+* Rozporządzenie XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Rozporządzenie 2180 w sprawie progów uznania incydentu za poważny
+* Rozporządzenie 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
+* Wymagania normy ISO 27001 w rozdziałach 6, 8, 9,10 
 * Załącznika A do normy ISO 27001 A.6, A.12, A.16
 
 ### Kontekst w zakresie Decyzji OUK
@@ -408,9 +410,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8,10 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* wymagania normy ISO 27001 w rozdziałach 6, 8 
+* Artykuł 8,10 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Wymagania normy ISO 27001 w rozdziałach 6, 8 
 * Załącznika A do normy ISO 27001 A.6, A.8, A.12, A.14, A.15, A.16
 
 ### Kontekst w zakresie Decyzji OUK
@@ -446,11 +448,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* wymagania normy ISO 27001 w rozdziałach 6, 8, 9 
+* Artykuł 8 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Wymagania normy ISO 27001 w rozdziałach 6, 8, 9 
 * Załącznika A do normy ISO 27001 A.6, A.17
-* wymagania normy ISO 22301 
+* Wymagania normy ISO 22301 
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -491,9 +493,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* wymagania normy ISO 27001 w rozdziałach 6, 7, 8, 9,10 
+* Artykuł 8 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Wymagania normy ISO 27001 w rozdziałach 6, 7, 8, 9,10 
 * Załącznika A do normy ISO 27001 A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18
 
 ### Kontekst w zakresie Decyzji OUK
@@ -501,9 +503,9 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 #### Dokumentacja procesu zarządzania podatnościami i zagrożeniami
 
 1. Opis procesu
-2. Harmonogramy skanowania
-3. Wyniki Skanów podatności
-4. Wyniki zmiany priorytetyzacji
+2. Harmonogramy skanowania podatności 
+3. Wyniki skanów podatności
+4. Wyniki zmiany priorytetyzacji w raportach 
 5. Aktualny status realizacji postępowania z podatnościami - lista
 6. Procedury związane ze z identyfikowaniem \(wykryciem\) podatności
 7. Współpraca z procesami zarządzania incydentami
@@ -530,8 +532,8 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Artykuł 8 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * wymagania normy ISO 27001 w rozdziałach 6, 7, 8, 9,10 
 * Załącznika A do normy ISO 27001 A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.18
 
@@ -564,11 +566,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8,10,14 KSC
+* Artykuł 8,10,14 KSC
 * Ustawy o ochronie osób i mienia
-* Rozp. XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* wymagania normy ISO 27001 w rozdziałach 6, 8 
+* Rozporządzenie XXXX z 23 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Wymagania normy ISO 27001 w rozdziałach 6, 8 
 * Załącznika A do normy ISO 27001 A.6, A.11
 
 ### Kontekst w zakresie Decyzji OUK
@@ -605,9 +607,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* art 8,14 KSC
-* Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* wymagania normy ISO 27001 w rozdziałach 6, 7, 8
+* Artykuł 8,14 KSC
+* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
+* Wymagania normy ISO 27001 w rozdziałach 6, 7, 8
 * Załącznika A do normy ISO 27001 A.6, A.15, A.17
 
 ### Kontekst w zakresie Decyzji OUK
