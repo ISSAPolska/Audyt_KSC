@@ -382,6 +382,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Identyfikacja i dokumentowanie przyczyn wystąpienia
 3. Dowody świadczące o opracowywaniu i implementacji wniosków wynikających z obsługi incydentu
 4. Dowody poprawnej obsługi incydentu \(1.1.10\)
+5. Kontekst personelu i dokumentacji umiętności \(rozp XXXX z 23.12.2019  par. 1 ust. 1 pkt. 4\)
+6. Kontekst narzędzi \(rozp XXXX z 23.12.2019  par. 2 ust. 1 pkt. 1\)
 
 #### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
