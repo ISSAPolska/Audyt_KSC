@@ -176,7 +176,7 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 ### Kontekst w zakresie przepisów i normy
 
 * art 9, 14,15 i 16 KSC, 
-* Rozp. 1780 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
+* Rozp. XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
 * Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * Rozp. 1999 w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu
 * Rozp. 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
@@ -211,21 +211,30 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 11. Rejestr dostępu do dokumentacji systemu informacyjnego
 12. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
 W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwo informacji.
+
+|  |  |
+| :--- | :--- |
+|  |  |
+
+|  |  |
+| :--- | :--- |
+|  |  |
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -241,7 +250,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### System bazujący na SZBI ISO-27001
 
-1. Weryfikacja polityki.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce \(Dz. U. 1780 z 2018\)
+1. Weryfikacja polityki.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce \(Dz. U. XXX z 23.12.2019\)
 2. Role i odpowiedzialności w DC Deklaracja stosowania \(Norma-&gt; 6.1.3.d\) 
 3. Dokumentacja powołania DC 
 4. Plany postępowania z ryzykiem 
@@ -261,11 +270,12 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 5. Uprawnienia / dostęp do systemów – procedury w zakresie: 
 6. Przydzielanie dostępu 
 7. Odbieranie dostępu
-8. Pomieszczenie w zakresie zespołu \(Dz. U. 1780 z 2018\)
-9. Dokumentacja umiejętności identyfikacji zagrożeń dla ICT / ICS – usługi kluczowej 
-10. Dokumentacja umiejętności analizowania oprogramowania szkodliwego Procedura i dokumentacja przebiegu identyfikacji wpływu oprogramowania złośliwego na usługę kluczową 
-11. Przebieg zabezpieczenia śladów kryminalistycznych 
-12. Narzędzia do wykonywania analizy kodu w celu uznania za szkodliwy
+8. Pomieszczenie w zakresie zespołu \(Dz. U. XXXX z 23.12.2019\)
+9. Dokumentacja i rozliczajnośc w zakresie VPN \(Dz. U. XXXX x 23.12.2019
+10. Dokumentacja umiejętności identyfikacji zagrożeń dla ICT / ICS – usługi kluczowej 
+11. Dokumentacja umiejętności analizowania oprogramowania szkodliwego Procedura i dokumentacja przebiegu identyfikacji wpływu oprogramowania złośliwego na usługę kluczową 
+12. Przebieg zabezpieczenia śladów kryminalistycznych 
+13. Narzędzia do wykonywania analizy kodu w celu uznania za szkodliwy
 
 #### Dostęp do wiedzy z zakresu cyberbezpieczeństwa \(Art. 9.1.2\) – dokumentacja poświadczająca
 
@@ -275,17 +285,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 3: Zarządzanie ryzykiem
 
@@ -314,17 +325,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Poprawność zastosowanych działań w zakresie analizy 
 3. Adekwatność w ocena ryzyka
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 4: Monitorowanie i reagowanie na incydentami bezpieczeństwa
 
@@ -335,7 +347,7 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 Zakres prac obejmował między innymi adekwatne wymagania:
 
 * art 8,11,12,13 KSC
-* Rozp. 1780 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
+* Rozp. XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
 * Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * Rozp. 2180 w sprawie progów uznania incydentu za poważny
 * Rozp. 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
@@ -373,17 +385,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 5: Zarządzanie zmianą
 
@@ -410,17 +423,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 6. Wyniki audytów w procesie zarządzania zmianą
 7. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 6: Zarządzanie ciągłością działania
 
@@ -454,17 +468,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 12. Procedury współpracy z podmiotami zewnętrznymi
 13. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 7: Utrzymanie systemów informatycznych
 
@@ -492,17 +507,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 7. Współpraca z procesami zarządzania incydentami
 8. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 8: Utrzymanie i rozwój systemów bezpieczeństwa
 
@@ -525,17 +541,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Dostęp do środowisk DEV / TEST / QA – zasady udokumentowane
 3. Rozliczalność dostępów - procedury
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 9: Bezpieczeństwo fizyczne
 
@@ -547,7 +564,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 * art 8,10,14 KSC
 * Ustawy o ochronie osób i mienia
-* Rozp. 1780 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa
+* Rozp. XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
 * Rozp 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * wymagania normy ISO 27001 w rozdziałach 6, 8 
 * Załącznika A do normy ISO 27001 A.6, A.11
@@ -563,17 +580,20 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 5. Przechowywanie i dostęp do dokumentacji
 6. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
 
-### Zidentyfikowane a nieudokumentowane ryzyka
 
-Nazwa ryzyka
 
-Priorytet ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
+
+| ID | Zdarzenie niepożądane | Opis ryzyka | Piorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ### Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
 
@@ -603,22 +623,23 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa
 
-1. Wymagania osobowe \(Dz.U 1780 z 2018r\)
+1. Wymagania osobowe \(Dz.U XXXX z 23.12.2019r\)
 2. Wymagania w zakresie ochrony fizycznej podmiotu
 3. Zastosowane systemy zabezpieczeń w zakresie dostępów do dokumentacji
 4. Zastosowane systemy zabezpieczeń teleinformatycznej w zakresie pracy zdalnej
 
-### Zidentyfikowane a nieudokumentowane ryzyka
+### Ryzyka zidentyfikowane w czasie audytu
 
-Nazwa ryzyka
-
-Priorytet ryzyka
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
+| :--- | :--- | :--- | :--- |
+| 1 |  |  |  |
+| 2 |  |  |  |
 
 ### Zalecenia
 
-Obserwacja
-
-Rekomendacje
+| Obserwacja | Rekomendacje |
+| :--- | :--- |
+|  |  |
 
 ## Skróty i definicje
 
@@ -718,7 +739,7 @@ Rekomendacje
         cyfrowych</td>
     </tr>
     <tr>
-      <td style="text-align:left">zarz&#x105;dzanie incydentem</td>
+      <td style="text-align:left">Zarz&#x105;dzanie incydentem</td>
       <td style="text-align:left">
         <p>bie&#x17C;&#x105;cy i udokumentowany proces og&#xF3;lnego post&#x119;powania
           w trakcie obs&#x142;ugi incydentu polegaj&#x105;cego conajmniej na podejmowaniu
@@ -732,7 +753,7 @@ Rekomendacje
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">szacowanie ryzyka</td>
+      <td style="text-align:left">Szacowanie ryzyka</td>
       <td style="text-align:left">
         <p>bie&#x17C;&#x105;ce prace polegaj&#x105;ce na ocenie sytuacji w zarz&#x105;dzanej
           cyberprzestrzeni polegaj&#x105;ce co najmniej na:</p>
@@ -744,7 +765,7 @@ Rekomendacje
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">obs&#x142;uga incydentu</td>
+      <td style="text-align:left">Obs&#x142;uga incydentu</td>
       <td style="text-align:left">
         <p>szczeg&#xF3;&#x142;owy zestaw czynno&#x15B;ci wykonywanych w spos&#xF3;b
           powtarzalny i udokumentowany, a sk&#x142;adaj&#x105;cy si&#x119; z co najmniej
