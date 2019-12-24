@@ -372,7 +372,7 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-Artykuł 8,9, 10, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+Artykuł 8, 9, 10, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
 
 Rozporządzenie XXXX z 6 grudnia 2019 r. w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo \(Dz. U. poz. …. \),
 
