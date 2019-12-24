@@ -340,7 +340,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 4: Monitorowanie i reagowanie na incydentami bezpieczeństwa
+### Obszar 4: Monitorowanie i reagowanie na incydenty bezpieczeństwa
 
 W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie zdefiniowania wymagań, wdrożenia i konfiguracji narzędzi, ciągłego monitorowania i skutecznego reagowania na potencjalne incydenty.
 
@@ -355,6 +355,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Rozporządzenie 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
 * Wymagania normy ISO 27001 w rozdziałach 6, 8, 9,10 
 * Załącznika A do normy ISO 27001 A.6, A.12, A.16
+* Wymagania normy ISO 22301 w rozdziałach 8.4, 9.1
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -367,16 +368,17 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 5. Dokumentacja przebiegu reakcji na incydent
 6. Dostęp do miejsca, w którym przechowywana jest dokumentacja \(jeżeli tylko wirtualnie to wizja lokalna w serwerowni\)
 7. Dokumentacja dotycząca przekazywania informacji do CSIRT sektorowego / narodowego 
-8. Zabezpieczenia i gromadzenie materiału dowodowego
+8. Zabezpieczenia i gromadzenie materiału dowodowego oraz zapewnienie rozliczalności w całym procesie monitorowania i reagowania na incydenty
 9. Dokumentacja systemu do automatycznego rejestrowania zgłoszeń incydentów
 10. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+11. Dokumentacja doskonalenia procesu zarządzania incydentami i wniosków \(w oparciu o zidentyfikowane słabości\)
 
 #### Monitorowanie cyberbezpieczeństwa
 
 1. Monitorowanie i wykrycie incydentów w zakresie poufności
 2. Monitorowanie i wykrycie incydentów w zakresie dostępności
 3. Monitorowanie i wykrycie incydentów w zakresie integralność
-4. Monitorowanie i wykrycie incydentów w zakresie poufności autentyczności
+4. Monitorowanie i wykrycie incydentów w zakresie autentyczności
 
 #### Poprawność procesu z KSC
 
@@ -458,19 +460,27 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### Dokumentacja procesu zarządzania ciągłością działania
 
-1. Wyniki testów ciągłości działania
-2. Konfiguracja systemów backup
-3. Raport z audytu przeglądu systemów kopii bezpieczeństwa
-4. Rejestr przeprowadzonych przeglądów 
-5. Retencja danych – dokumenty potwierdzające 
-6. Przechowywanie kopii zapasowych - procedury 
-7. Dokumentacja BIA analizy ryzyka 
-8. Strategia i polityka ciągłości działania
-9. Procedury awaryjne \(DRP\)
-10. Scenariusze testowe
-11. Procedury komunikacji z mediami
-12. Procedury współpracy z podmiotami zewnętrznymi
-13. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+1. Harmonogram i rodzaje testów ciągłości działania 
+2. Wyniki testów ciągłości działania
+3. Konfiguracja systemów backup
+4. Raport z audytu przeglądu systemów kopii bezpieczeństwa
+5. Rejestr przeprowadzonych przeglądów 
+6. Retencja danych – dokumenty potwierdzające 
+7. Przechowywanie kopii zapasowych - procedury 
+8. Dokumentacja analizy BIA i analizy ryzyka 
+9. Strategia i polityka ciągłości działania
+10. Dokumentacja wyjątków i odstępstw od założeń polityki
+11. Dokumentacja MAK \(Minimalna akceptowalna konfiguracja\)
+12. Struktura organizacyjna w odpowiedzi na incydent
+13. Procedury ciągłości działania i awaryjne \(DRP\)
+14. Scenariusze testowe
+15. Procedury komunikacji z mediami i komunikacji wewnętrznej
+16. Rejestr kluczowych dostawców w ramach UK
+17. Procedury współpracy z podmiotami zewnętrznymi
+18. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+19. Dokumentacja wyników ocen i pomiarów \(w tym testów\) SZCD i jego elementów oraz działań korygujących \(oraz ich status\)
+
+
 
 ### Ryzyka zidentyfikowane w czasie audytu
 
@@ -571,7 +581,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Rozporządzenie XXXX z 23 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
 * Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * Wymagania normy ISO 27001 w rozdziałach 6, 8 
-* Załącznika A do normy ISO 27001 A.6, A.11
+* Załącznika A do normy ISO 27001 A.6, A.11, A17
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -583,6 +593,12 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 4. Dokumentacja i zasadność konfiguracji systemu przeciwpożarowego
 5. Przechowywanie i dostęp do dokumentacji
 6. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
+7. Dokumentacja i zasadność konfiguracji systemu podtrzymania i stabilizacji prądu 
+8. Dokumentacja i zasadność konfiguracji systemu podtrzymania warunków temperatury, wilgotności i wentylacji pomieszczeń  
+9. Rejestr przeglądów i konserwacji elementów w/w użytkowanych systemów 
+10. Dokumentacja testów bezpieczeństwa w odniesieniu do elementów systemu zabezpieczeń fizycznych
+11. Dokumentacja i testy procedur ewakuacyjnych 
+12. Dokumentacja i procedury kontaktu ze służbami 
 
 
 
@@ -611,19 +627,22 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * Wymagania normy ISO 27001 w rozdziałach 6, 7, 8
 * Załącznika A do normy ISO 27001 A.6, A.15, A.17
+* Wymagania normy ISO 22301 w rozdziałach 8.3
 
 ### Kontekst w zakresie Decyzji OUK
 
 #### Dostawcy OUK - dokumentacja
 
-1. Polityka bezpieczeństwa w relacjami z dostawcami 
+1. Polityka bezpieczeństwa w relacjach z dostawcami 
 2. Standardy i wymagania nakładane na dostawców w umowach w zakresie Cyberbezpieczeństwa
-3. Bezpieczeństwo łańcucha dostaw
-4. Monitorowanie bieżące i przegląd usług świadczonych przez dostawców
-5. Standardy w umowach dotyczące „cyber”
-6. Wyniki audytów 2 / 3 strony \(zewnętrzne\)
-7. Dostęp do VPN
-8. Akceptowalne użycie aktywów – lista przypadków
+3. Ocena zdolności dostawcy do zachowania ciągłości działania
+4. Bezpieczeństwo łańcucha dostaw
+5. Monitorowanie bieżące i przegląd usług świadczonych przez dostawców
+6. Umowy z w/w dostawcami \(wymagany poziom usług\) i standardy w umowach dotyczące „cyber”
+7. Rejestr kluczowych dostawców w ramach UK
+8. Wyniki audytów 2 / 3 strony \(zewnętrzne\)
+9. Dostęp do VPN i metody uwierzytelnienia 
+10. Akceptowalne użycie aktywów – lista przypadków
 
 #### Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa
 
@@ -631,6 +650,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Wymagania w zakresie ochrony fizycznej podmiotu
 3. Zastosowane systemy zabezpieczeń w zakresie dostępów do dokumentacji
 4. Zastosowane systemy zabezpieczeń teleinformatycznej w zakresie pracy zdalnej
+
+
 
 ### Ryzyka zidentyfikowane w czasie audytu
 
