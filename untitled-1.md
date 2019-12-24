@@ -4,181 +4,181 @@ description: >-
   Cyberbezpieczeństwa
 ---
 
-# Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa\[
+# Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 
-Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa[**\[1\]**]()
+Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa**\[1\]**
 
 Spis treści
 
-[Metryka dokumentu 5]()
+Metryka dokumentu 5
 
-[Metryka audytu: 5]()
+Metryka audytu: 5
 
-[Odpowiedzialności instytucjonalne w OUK 5]()
+Odpowiedzialności instytucjonalne w OUK 5
 
-[Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK 5]()
+Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK 5
 
-[Informacja o audytorach wykonujących \(Dz.U. 2018 poz. 1999\) 6]()
+Informacja o audytorach wykonujących \(Dz.U. 2018 poz. 1999\) 6
 
-[Informacja o ekspertach wspierających audytorów 6]()
+Informacja o ekspertach wspierających audytorów 6
 
-[Niezgodności z poprzednich dwóch audytów KSC 6]()
+Niezgodności z poprzednich dwóch audytów KSC 6
 
-[Podsumowanie dla kierownictwa 7]()
+Podsumowanie dla kierownictwa 7
 
-[Cel i zakres prac 8]()
+Cel i zakres prac 8
 
-[Cel prac 8]()
+Cel prac 8
 
-[Celem wykonanych prac była ocena procesu zarządzania bezpieczeństwem informacji realizowanego przez ….&lt;nazwa klienta&gt;… oraz identyfikacja i analiza luki zgodności w wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa 8]()
+Celem wykonanych prac była ocena procesu zarządzania bezpieczeństwem informacji realizowanego przez ….&lt;nazwa klienta&gt;… oraz identyfikacja i analiza luki zgodności w wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa 8
 
-[Zakres prac 8]()
+Zakres prac 8
 
-[Przebieg prac 9]()
+Przebieg prac 9
 
-[Wykluczenia i ograniczenia zakresu 9]()
+Wykluczenia i ograniczenia zakresu 9
 
-[Wyniki prac 9]()
+Wyniki prac 9
 
-[Obszar 1: Organizacja zarządzania bezpieczeństwem informacji 11]()
+Obszar 1: Organizacja zarządzania bezpieczeństwem informacji 11
 
-[Kontekst w zakresie przepisów i norm 11]()
+Kontekst w zakresie przepisów i norm 11
 
-[Kontekst w zakresie Decyzji OUK 11]()
+Kontekst w zakresie Decyzji OUK 11
 
-[Dokumentacja potwierdzająca wykonane działania zgodnie z harmonogramem wskazanym w ustawie: 11]()
+Dokumentacja potwierdzająca wykonane działania zgodnie z harmonogramem wskazanym w ustawie: 11
 
-[Opis Identyfikacji systemu informacyjnego wspierającego usługę krytyczną: 11]()
+Opis Identyfikacji systemu informacyjnego wspierającego usługę krytyczną: 11
 
-[Dokumentacja Systemu Informacyjnego wspierającego usługę kluczową 11]()
+Dokumentacja Systemu Informacyjnego wspierającego usługę kluczową 11
 
-[Ryzyka zidentyfikowane w czasie audytu 12]()
+Ryzyka zidentyfikowane w czasie audytu 12
 
-[Zalecenia 12]()
+Zalecenia 12
 
-[Obszar 2: Procesy zarządzania bezpieczeństwem informacji 13]()
+Obszar 2: Procesy zarządzania bezpieczeństwem informacji 13
 
-[Kontekst w zakresie przepisów i norm 13]()
+Kontekst w zakresie przepisów i norm 13
 
-[Kontekst w zakresie Decyzji OUK 13]()
+Kontekst w zakresie Decyzji OUK 13
 
-[System bazujący na SZBI ISO-27001 13]()
+System bazujący na SZBI ISO-27001 13
 
-[Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na wykonywanie poniższych 13]()
+Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na wykonywanie poniższych 13
 
-[Dostęp do wiedzy z zakresu cyberbezpieczeństwa \(Art. 9.1.2\) – dokumentacja poświadczająca 14]()
+Dostęp do wiedzy z zakresu cyberbezpieczeństwa \(Art. 9.1.2\) – dokumentacja poświadczająca 14
 
-[Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK 14]()
+Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK 14
 
-[Ryzyka zidentyfikowane w czasie audytu 14]()
+Ryzyka zidentyfikowane w czasie audytu 14
 
-[Zalecenia 14]()
+Zalecenia 14
 
-[Obszar 3: Zarządzanie ryzykiem 15]()
+Obszar 3: Zarządzanie ryzykiem 15
 
-[Kontekst w zakresie przepisów i norm 15]()
+Kontekst w zakresie przepisów i norm 15
 
-[Kontekst w zakresie Decyzji OUK 15]()
+Kontekst w zakresie Decyzji OUK 15
 
-[Proces zarządzania ryzykiem KSC 15]()
+Proces zarządzania ryzykiem KSC 15
 
-[Ryzyka zidentyfikowane w czasie audytu 15]()
+Ryzyka zidentyfikowane w czasie audytu 15
 
-[Zalecenia 15]()
+Zalecenia 15
 
-[Obszar 4: Monitorowanie i reagowanie na naruszenia bezpieczeństwa 16]()
+Obszar 4: Monitorowanie i reagowanie na naruszenia bezpieczeństwa 16
 
-[Kontekst w zakresie przepisów i norm 16]()
+Kontekst w zakresie przepisów i norm 16
 
-[Kontekst w zakresie Decyzji OUK 16]()
+Kontekst w zakresie Decyzji OUK 16
 
-[Dokumentacja procesu zarządzania Incydentami 16]()
+Dokumentacja procesu zarządzania Incydentami 16
 
-[Monitorowanie cyberbezpieczeństwa 17]()
+Monitorowanie cyberbezpieczeństwa 17
 
-[Poprawność procesu z KSC 17]()
+Poprawność procesu z KSC 17
 
-[Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK 17]()
+Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK 17
 
-[Ryzyka zidentyfikowane w czasie audytu 17]()
+Ryzyka zidentyfikowane w czasie audytu 17
 
-[Zalecenia 17]()
+Zalecenia 17
 
-[Obszar 5: Zarządzanie zmianą 18]()
+Obszar 5: Zarządzanie zmianą 18
 
-[Kontekst w zakresie przepisów i norm 18]()
+Kontekst w zakresie przepisów i norm 18
 
-[Kontekst w zakresie Decyzji OUK 18]()
+Kontekst w zakresie Decyzji OUK 18
 
-[Dokumentacja procesu zarządzania zmianą 18]()
+Dokumentacja procesu zarządzania zmianą 18
 
-[Ryzyka zidentyfikowane w czasie audytu 18]()
+Ryzyka zidentyfikowane w czasie audytu 18
 
-[Zalecenia 18]()
+Zalecenia 18
 
-[Obszar 6: Zarządzanie ciągłością działania 19]()
+Obszar 6: Zarządzanie ciągłością działania 19
 
-[Kontekst w zakresie przepisów i norm 19]()
+Kontekst w zakresie przepisów i norm 19
 
-[Kontekst w zakresie Decyzji OUK 19]()
+Kontekst w zakresie Decyzji OUK 19
 
-[Dokumentacja procesu zarządzania ciągłością działania 19]()
+Dokumentacja procesu zarządzania ciągłością działania 19
 
-[Ryzyka zidentyfikowane w czasie audytu 20]()
+Ryzyka zidentyfikowane w czasie audytu 20
 
-[Zalecenia 20]()
+Zalecenia 20
 
-[Obszar 7: Utrzymanie systemów informatycznych 21]()
+Obszar 7: Utrzymanie systemów informatycznych 21
 
-[Kontekst w zakresie przepisów i norm 21]()
+Kontekst w zakresie przepisów i norm 21
 
-[Kontekst w zakresie Decyzji OUK 21]()
+Kontekst w zakresie Decyzji OUK 21
 
-[Dokumentacja procesu zarządzania podatnościami i zagrożeniami 21]()
+Dokumentacja procesu zarządzania podatnościami i zagrożeniami 21
 
-[Ryzyka zidentyfikowane w czasie audytu 21]()
+Ryzyka zidentyfikowane w czasie audytu 21
 
-[Zalecenia 21]()
+Zalecenia 21
 
-[Obszar 8: Utrzymanie i rozwój systemów bezpieczeństwa 22]()
+Obszar 8: Utrzymanie i rozwój systemów bezpieczeństwa 22
 
-[Kontekst w zakresie przepisów i norm 22]()
+Kontekst w zakresie przepisów i norm 22
 
-[Kontekst w zakresie Decyzji OUK 22]()
+Kontekst w zakresie Decyzji OUK 22
 
-[Środowisko rozwojowe - dokumentacja 22]()
+Środowisko rozwojowe - dokumentacja 22
 
-[Ryzyka zidentyfikowane w czasie audytu 22]()
+Ryzyka zidentyfikowane w czasie audytu 22
 
-[Zalecenia 22]()
+Zalecenia 22
 
-[Obszar 9: Bezpieczeństwo fizyczne 23]()
+Obszar 9: Bezpieczeństwo fizyczne 23
 
-[Kontekst w zakresie przepisów i norm 23]()
+Kontekst w zakresie przepisów i norm 23
 
-[Kontekst w zakresie Decyzji OUK 23]()
+Kontekst w zakresie Decyzji OUK 23
 
-[Pomieszczenia CSIRT/SOC/Działu 23]()
+Pomieszczenia CSIRT/SOC/Działu 23
 
-[Ryzyka zidentyfikowane w czasie audytu 23]()
+Ryzyka zidentyfikowane w czasie audytu 23
 
-[Zalecenia 23]()
+Zalecenia 23
 
-[Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług 24]()
+Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług 24
 
-[Kontekst w zakresie przepisów i norm 24]()
+Kontekst w zakresie przepisów i norm 24
 
-[Kontekst w zakresie Decyzji OUK 24]()
+Kontekst w zakresie Decyzji OUK 24
 
-[Dostawcy OUK - dokumentacja 24]()
+Dostawcy OUK - dokumentacja 24
 
-[Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa 24]()
+Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa 24
 
-[Ryzyka zidentyfikowane w czasie audytu 25]()
+Ryzyka zidentyfikowane w czasie audytu 25
 
-[Zalecenia 25]()
+Zalecenia 25
 
-[Skróty i definicje 26]()
+Skróty i definicje 26
 
 ### Metryka dokumentu
 
