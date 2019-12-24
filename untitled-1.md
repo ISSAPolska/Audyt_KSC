@@ -1,7 +1,7 @@
 ---
 description: >-
   Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie
-  Cyberbezpieczeństwa
+  Cyberbezpieczeństwa (po uwagach MC)
 ---
 
 # Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
