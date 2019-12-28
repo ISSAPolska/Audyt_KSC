@@ -177,13 +177,13 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 9, 14,15 i 16 KSC, 
-* Rozporządzenie XXXX z 23 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Rozporządzenie 1999 w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu
-* Rozporządzenie 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
-* Normy ISO 27001 w rozdziałach 5, 7, 9 i 10 
-* Załącznika A do normy ISO 27001 A.5, A.6 i A.18.
+* Artykuł 9, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\), 
+* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Rozporządzenie Ministra Cyfryzacji z dnia 12 października 2018 r. w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu \(Dz. U. poz. 1999\),
+* Rozporządzenie Ministra Cyfryzacji z dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług \(Dz. U. poz. 1830\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 5, 7, 9 i 10,
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6 i A.18.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -242,11 +242,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8,10,11,15 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Rozporządzenie 2180 w sprawie progów uznania incydentu za poważny
-* Wymagania normy ISO 27001 w rozdziałach 6, 8 
-* Wszystkie z wymienionych w Załączniku A do normy ISO 27001 
+* Artykuł 8, 10, 11, 15 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8,
+* Wszystkie z wymienionych w Załączniku A do Polskiej Normy PN-EN ISO/IEC 27001.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -308,10 +308,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Normy ISO 27001 w rozdziałach 6,8,9,10 
-* Załącznika A do normy ISO 27001 A.6, A.18.
+* Artykuł 8, 10 ustawy o ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -348,14 +348,14 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8,11,12,13 Ustawy o Krajowym Systemie Cyberbezpieczeństwa
-* Rozporządzenie XXXX z 23 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Rozporządzenie 2180 w sprawie progów uznania incydentu za poważny
-* Rozporządzenie 1830 w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług
-* Wymagania normy ISO 27001 w rozdziałach 6, 8, 9,10 
-* Załącznika A do normy ISO 27001 A.6, A.12, A.16
-* Wymagania normy ISO 22301 w rozdziałach 8.4, 9.1
+* Artykuł 8, 11, 12, 13 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
+* Rozporządzenie Ministra Cyfryzacji z dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług \(Dz. U. poz. 1830\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.12, A.16,
+* Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -412,10 +412,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8,10 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Wymagania normy ISO 27001 w rozdziałach 6, 8 
-* Załącznika A do normy ISO 27001 A.6, A.8, A.12, A.14, A.15, A.16
+* Artykuł 8, 10 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.8, A.12, A.14, A.15, A.16.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -450,11 +450,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Wymagania normy ISO 27001 w rozdziałach 6, 8, 9 
-* Załącznika A do normy ISO 27001 A.6, A.17
-* Wymagania normy ISO 22301 
+* Artykuł 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.17,
+* Wymagania Polskiej Normy PN-EN ISO 22301.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -503,10 +503,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Wymagania normy ISO 27001 w rozdziałach 6, 7, 8, 9,10 
-* Załącznika A do normy ISO 27001 A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18
+* Artykuł 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach  6, 7, 8, 9, 10, 
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -542,10 +542,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* wymagania normy ISO 27001 w rozdziałach 6, 7, 8, 9,10 
-* Załącznika A do normy ISO 27001 A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.18
+* Artykuł 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8, 9,10,
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -576,12 +576,12 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8,10,14 KSC
+* Artykuł 8, 10, 14 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
 * Ustawy o ochronie osób i mienia
-* Rozporządzenie XXXX z 23 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Wymagania normy ISO 27001 w rozdziałach 6, 8 
-* Załącznika A do normy ISO 27001 A.6, A.11, A17
+* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8,
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.11, A17.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -623,11 +623,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8,14 KSC
-* Rozporządzenie 2080 w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Wymagania normy ISO 27001 w rozdziałach 6, 7, 8
-* Załącznika A do normy ISO 27001 A.6, A.15, A.17
-* Wymagania normy ISO 22301 w rozdziałach 8.3
+* Artykuł 8, 14 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8,
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.15, A.17,
+* Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.3.
 
 ### Kontekst w zakresie Decyzji OUK
 
