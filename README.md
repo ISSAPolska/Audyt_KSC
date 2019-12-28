@@ -181,7 +181,6 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
 * Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
 * Rozporządzenie Ministra Cyfryzacji z dnia 12 października 2018 r. w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu \(Dz. U. poz. 1999\),
-* Rozporządzenie Ministra Cyfryzacji z dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług \(Dz. U. poz. 1830\),
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 5, 7, 9 i 10,
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6 i A.18.
 
@@ -193,7 +192,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Czynności wykonane w terminie 6 miesięcy
 * Czynności wykonane w terminie 12 miesięcy
 
-### Opis Identyfikacji systemu informacyjnego wspierającego usługę krytyczną:
+### Opis Identyfikacji systemu informacyjnego wspierającego usługę kluczową:
 
 * lista elementów składowych
 * lista osób odpowiedzialnych
@@ -352,10 +351,9 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
 * Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
 * Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
-* Rozporządzenie Ministra Cyfryzacji z dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług \(Dz. U. poz. 1830\),
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.12, A.16,
-* Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1
+* **Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1**
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -363,11 +361,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 1. Procedury zarządzania incydentami
 2. Przyjęta taksonomia
-3. Procedury postępowania ze znanymi incydentami lub/i naruszeniami
-4. Raportowanie poziomów pokrycia scenariuszami znanych incydentów lub/i naruszeń
+3. Procedury postępowania ze znanymi incydentami 
+4. Raportowanie poziomów pokrycia scenariuszami znanych incydentów 
 5. Dokumentacja przebiegu reakcji na incydent
 6. Dostęp do miejsca, w którym przechowywana jest dokumentacja \(jeżeli tylko wirtualnie to wizja lokalna w serwerowni\)
-7. Dokumentacja dotycząca przekazywania informacji do CSIRT sektorowego / narodowego 
+7. Dokumentacja dotycząca przekazywania informacji do właściwego zespołu CSIRT poziomu krajowego/ sektorowego zespołu cyberbezpieczeństwa
 8. Zabezpieczenia i gromadzenie materiału dowodowego oraz zapewnienie rozliczalności w całym procesie monitorowania i reagowania na incydenty
 9. Dokumentacja systemu do automatycznego rejestrowania zgłoszeń incydentów
 10. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
@@ -495,7 +493,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 7: Utrzymanie systemów informatycznych
+### Obszar 7: Utrzymanie systemów informacyjnych
 
 W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych.
 
@@ -634,11 +632,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 #### Dostawcy OUK - dokumentacja
 
 1. Polityka bezpieczeństwa w relacjach z dostawcami 
-2. Standardy i wymagania nakładane na dostawców w umowach w zakresie Cyberbezpieczeństwa
+2. Standardy i wymagania nakładane na dostawców w umowach w zakresie cyberbezpieczeństwa
 3. Ocena zdolności dostawcy do zachowania ciągłości działania
 4. Bezpieczeństwo łańcucha dostaw
 5. Monitorowanie bieżące i przegląd usług świadczonych przez dostawców
-6. Umowy z w/w dostawcami \(wymagany poziom usług\) i standardy w umowach dotyczące „cyber”
+6. Umowy z w/w dostawcami \(wymagany poziom usług\) i standardy w umowach dotyczące cyberbezpieczeństwa
 7. Rejestr kluczowych dostawców w ramach UK
 8. Wyniki audytów 2 / 3 strony \(zewnętrzne\)
 9. Dostęp do VPN i metody uwierzytelnienia 
