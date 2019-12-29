@@ -35,9 +35,9 @@
 | Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane dostawcy cyberbezpieczeństwa, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w audycie |
 | :--- | :--- |
 | Zarządzanie ryzykiem |  |
-| Zarządzania incydentem |  |
-| Zarządzania zagrożeniami |  |
-| Zarządzania podatnościami |  |
+| Zarządzanie incydentem |  |
+| Zarządzanie zagrożeniami |  |
+| Zarządzanie podatnościami |  |
 | Zarządzanie środkami technicznymi |  |
 | Zarządzanie środkami organizacyjnymi |  |
 | Utrzymanie i eksploatacja SI\_OUK |  |
@@ -121,18 +121,18 @@ Celem wykonanych prac była ocena procesu zarządzania bezpieczeństwem informac
 
 Zakres prac obejmował:
 
-* zrozumienie kontekstu działania organizacji w tym wpływy systemów IT na usługę krytyczną
+* zrozumienie kontekstu działania organizacji w tym wpływ systemów IT na usługę krytyczną
 * analizę dokumentacji
 * testy skuteczności funkcjonowania mechanizmów kontrolnych
-* opracowanie raportu zawierającego opis zidentyfikowanych luk zgodności wraz z rekomendacjami
+* opracowanie raportu zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami
 * przestawienie wyników audytu dla najwyższego kierownictwa
 
 ## Przebieg prac
 
 Prace zostały wykonane w dniach ...... - ....... i polegały na analizie wybranej dokumentacji, wywiadach z wybranymi pracownikami, obserwacjach i wizji lokalnej w ..... jednostkach. Dodatkowo w ramach audytu przeprowadzono testy techniczne obejmujące swoim zakresem:
 
-* analizę podatności na xxx stacjach
-* analizę luk w systemie ....
+* weryfikację podatności na ... stacjach
+* weryfikację luk w systemie ....
 
 Prace realizowane były zgodnie z następującym harmonogramem:
 
@@ -143,7 +143,7 @@ Prace realizowane były zgodnie z następującym harmonogramem:
 5. Raportowanie wyników analizy luki zgodności
 6. Przesłanie raportu do uzgodnień
 7. Przygotowanie ostatecznej wersji raportu
-8. Umówienie wyników analizy luki zgodności
+8. Omówienie wyników analizy niezgodności
 
 ## Wykluczenia i ograniczenia zakresu
 
@@ -153,9 +153,9 @@ Ograniczenie zakresu nałożone na zespół audytowy, które nie pozwoliły na r
 
 ## Wyniki prac
 
-Szczegółowe wyniki wykonanych prac obejmują ocenę zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa, w tym zidentyfikowane luki, które mogą mieć wpływ na świadczenie Usług Kluczowych.
+Szczegółowe wyniki wykonanych prac obejmują ocenę zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa, w tym zidentyfikowane niezgodności, które mogą mieć wpływ na świadczenie Usług Kluczowych.
 
-Do oceny priorytetów dla zidentyfikowanego ryzyka braku zgodności wykorzystano następujące skale:
+Do określenia skutków zidentyfikowanych niezgodności wykorzystano następujące skale:
 
 **krytyczny** - niezgodności mogące bezpośrednio doprowadzić do incydentu krytycznego lub uniemożliwić jego skuteczną obsługę
 
@@ -167,7 +167,7 @@ Do oceny priorytetów dla zidentyfikowanego ryzyka braku zgodności wykorzystano
 
 Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze zgodnie z par............ KSC
 
-W ramach z każdego obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
+W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
 ### Obszar 1: Organizacja zarządzania bezpieczeństwem informacji
 
@@ -212,7 +212,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 11. Rejestr dostępu do dokumentacji systemu informacyjnego
 12. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -251,7 +251,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### System bazujący na SZBI ISO-27001
 
-1. Weryfikacja polityki.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce \(Dz. U. XXX z 23.12.2019\)
+1. **Weryfikacja polityki bezpieczeństwa.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce \(Dz. U. XXX z 23.12.2019\)**
 2. Role i odpowiedzialności w DC Deklaracja stosowania \(Norma-&gt; 6.1.3.d\) 
 3. Dokumentacja powołania DC 
 4. Plany postępowania z ryzykiem 
@@ -271,12 +271,12 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 5. Uprawnienia / dostęp do systemów – procedury w zakresie: 
 6. Przydzielanie dostępu 
 7. Odbieranie dostępu
-8. Pomieszczenie w zakresie zespołu \(Dz. U. XXXX z 23.12.2019\)
-9. Dokumentacja i rozliczalność w zakresie VPN \(Dz. U. XXXX x 23.12.2019\)
-10. Dokumentacja umiejętności identyfikacji zagrożeń dla ICT / ICS – usługi kluczowej 
-11. Dokumentacja umiejętności analizowania oprogramowania szkodliwego Procedura i dokumentacja przebiegu identyfikacji wpływu oprogramowania złośliwego na usługę kluczową 
+8. **Pomieszczenie w zakresie zespołu \(Dz. U. XXXX z 23.12.2019\)**
+9. **Dokumentacja i rozliczalność w zakresie VPN \(Dz. U. XXXX x 23.12.2019\)**
+10. Dokumentacja umiejętności personelu w zakresie identyfikacji zagrożeń dla ICT / ICS – usługi kluczowej 
+11. Dokumentacja umiejętności personelu w zakresie analizowania oprogramowania szkodliwego Procedura i dokumentacja przebiegu identyfikacji wpływu oprogramowania złośliwego na usługę kluczową 
 12. Przebieg zabezpieczenia śladów kryminalistycznych 
-13. Narzędzia do wykonywania analizy kodu w celu uznania za szkodliwy
+13. Narzędzia do przeprowadzania analizy szkodliwości kodu
 
 #### Dostęp do wiedzy z zakresu cyberbezpieczeństwa \(Art. 9.1.2\) – dokumentacja poświadczająca
 
@@ -286,7 +286,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 #### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -326,7 +326,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Poprawność zastosowanych działań w zakresie analizy 
 3. Adekwatność w ocena ryzyka
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -360,11 +360,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 #### Dokumentacja procesu zarządzania Incydentami
 
 1. Procedury zarządzania incydentami
-2. Przyjęta taksonomia
+2. Przyjęta taksonomia w zakresie rodzajów zagrożeń
 3. Procedury postępowania ze znanymi incydentami 
 4. Raportowanie poziomów pokrycia scenariuszami znanych incydentów 
 5. Dokumentacja przebiegu reakcji na incydent
-6. Dostęp do miejsca, w którym przechowywana jest dokumentacja \(jeżeli tylko wirtualnie to wizja lokalna w serwerowni\)
+6. Dostęp do miejsca, w którym przechowywana jest dokumentacja lub weryfikacja dokumentacji poświadczającej właściwe praktyki ochrony fizycznej
 7. Dokumentacja dotycząca przekazywania informacji do właściwego zespołu CSIRT poziomu krajowego/ sektorowego zespołu cyberbezpieczeństwa
 8. Zabezpieczenia i gromadzenie materiału dowodowego oraz zapewnienie rozliczalności w całym procesie monitorowania i reagowania na incydenty
 9. Dokumentacja systemu do automatycznego rejestrowania zgłoszeń incydentów
@@ -381,15 +381,15 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 #### Poprawność procesu z KSC
 
 1. Dokumenty potwierdzające wyszukiwanie podobieństw
-2. Identyfikacja i dokumentowanie przyczyn wystąpienia
+2. Identyfikacja i dokumentowanie przyczyn wystąpienia incydentów
 3. Dowody świadczące o opracowywaniu i implementacji wniosków wynikających z obsługi incydentu
-4. Dowody poprawnej obsługi incydentu \(1.1.10\)
-5. Kontekst personelu i dokumentacji umiętności \(rozp XXXX z 23.12.2019  par. 1 ust. 1 pkt. 4\)
-6. Kontekst narzędzi \(rozp XXXX z 23.12.2019  par. 2 ust. 1 pkt. 1\)
+4. Dowody poprawnej obsługi incydentu **\(1.1.10\)**
+5. **Kontekst personelu i dokumentacji umiejętności \(rozp XXXX z 23.12.2019  par. 1 ust. 1 pkt. 4\)**
+6. **Kontekst narzędzi \(rozp XXXX z 23.12.2019  par. 2 ust. 1 pkt. 1\)**
 
 #### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -420,14 +420,14 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 #### Dokumentacja procesu zarządzania zmianą
 
 1. Rejestr wyjątków braku aktualizacji
-2. Wyniki skanów podatności ze strony sieci
-3. Wyniki skanów podatności ze strony systemu operacyjnego
-4. Wyniki skanów podatności aplikacji
+2. Wyniki skanowania podatności ze strony sieci
+3. Wyniki skanowania podatności ze strony systemu operacyjnego
+4. Wyniki skanowania podatności aplikacji
 5. Dekompozycja na komponenty składowe \(biblioteki / moduły\) – materiały opisowe 
 6. Wyniki audytów w procesie zarządzania zmianą
 7. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -460,8 +460,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 1. Harmonogram i rodzaje testów ciągłości działania 
 2. Wyniki testów ciągłości działania
-3. Konfiguracja systemów backup
-4. Raport z audytu przeglądu systemów kopii bezpieczeństwa
+3. Konfiguracja systemów do wykonywania kopii bezpieczeństwa
+4. Raport z przeglądów i testów odtwarzania kopii bezpieczeństwa
 5. Rejestr przeprowadzonych przeglądów 
 6. Retencja danych – dokumenty potwierdzające 
 7. Przechowywanie kopii zapasowych - procedury 
@@ -470,7 +470,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 10. Dokumentacja wyjątków i odstępstw od założeń polityki
 11. Dokumentacja MAK \(Minimalna akceptowalna konfiguracja\)
 12. Struktura organizacyjna w odpowiedzi na incydent
-13. Procedury ciągłości działania i awaryjne \(DRP\)
+13. Procedury ciągłości działania, awaryjne oraz odtwarzania po katastrofie \(DRP\)
 14. Scenariusze testowe
 15. Procedury komunikacji z mediami i komunikacji wewnętrznej
 16. Rejestr kluczowych dostawców w ramach UK
@@ -480,7 +480,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -512,14 +512,14 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 1. Opis procesu
 2. Harmonogramy skanowania podatności 
-3. Wyniki skanów podatności
-4. Wyniki zmiany priorytetyzacji w raportach 
+3. Wyniki skanowania podatności
+4. **Wyniki zmiany priorytetyzacji w raportach** 
 5. Aktualny status realizacji postępowania z podatnościami - lista
 6. Procedury związane ze z identyfikowaniem \(wykryciem\) podatności
-7. Współpraca z procesami zarządzania incydentami
+7. Współpraca z osobami odpowidzialnymi za  procesy zarządzania incydentami
 8. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -553,7 +553,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Dostęp do środowisk DEV / TEST / QA – zasady udokumentowane
 3. Rozliczalność dostępów - procedury
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
@@ -600,7 +600,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Piorytet |
 | :--- | :--- | :--- | :--- |
@@ -615,7 +615,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa infomracji oraz usług wrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia usług kluczowych.
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa informacji oraz usług wdrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia usług kluczowych.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -638,20 +638,20 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 5. Monitorowanie bieżące i przegląd usług świadczonych przez dostawców
 6. Umowy z w/w dostawcami \(wymagany poziom usług\) i standardy w umowach dotyczące cyberbezpieczeństwa
 7. Rejestr kluczowych dostawców w ramach UK
-8. Wyniki audytów 2 / 3 strony \(zewnętrzne\)
+8. Wyniki audytów drugiej i trzeciej strony
 9. Dostęp do VPN i metody uwierzytelnienia 
 10. Akceptowalne użycie aktywów – lista przypadków
 
 #### Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa
 
-1. Wymagania osobowe \(Dz.U XXXX z 23.12.2019r\)
-2. Wymagania w zakresie ochrony fizycznej podmiotu
+1. **Wymagania osobowe \(Dz.U XXXX z 23.12.2019r\)**
+2. Wymagania w zakresie ochrony fizycznej 
 3. Zastosowane systemy zabezpieczeń w zakresie dostępów do dokumentacji
-4. Zastosowane systemy zabezpieczeń teleinformatycznej w zakresie pracy zdalnej
+4. Zastosowane systemy zabezpieczeń teleinformatycznych w zakresie pracy zdalnej
 
 
 
-### Ryzyka zidentyfikowane w czasie audytu
+### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
