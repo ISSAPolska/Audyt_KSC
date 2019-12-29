@@ -88,7 +88,7 @@ W dniach ...... - ....... przeprowadzono audyt zgodności z wymaganiami Ustawy o
 
 Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzone w dniach ....... - ....... . Na podstawie otrzymanych informacji udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców.
 
-Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac należy rozumieć w następujący sposób:
+Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych skutków i należy je rozumieć w następujący sposób:
 
 **krytyczny** - niezgodności mogące bezpośrednio doprowadzić do incydentu krytycznego lub uniemożliwić jego skuteczną obsługę
 
