@@ -1,6 +1,6 @@
-# Szablon raportu z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
+# Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 
-### Metryka Raportu z Audytu KSC
+### Metryka sprawozdania z Audytu KSC
 
 #### Metryka Audytu:
 
@@ -177,9 +177,8 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 9, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\), 
-* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
+* Artykuł 8, 9, 10, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\), 
+* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo \(DZ. U. poz. 2479\),
 * Rozporządzenie Ministra Cyfryzacji z dnia 12 października 2018 r. w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu \(Dz. U. poz. 1999\),
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 5, 7, 9 i 10,
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6 i A.18.
