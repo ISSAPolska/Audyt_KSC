@@ -8,10 +8,10 @@
 | :--- | :--- |
 | Audytowana Jednostka Organizacyjna |  |
 | Audytowane lokalizacje: |  |
-| Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi krytycznej z Kryteriami |
-| Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z Załącznikami |
-| Zakres Audytu - Działalność | _nazwa usługi krytycznej_ |
-| Zakres audytu -  Proces | wsparcie systemu informacyjnego dla usługi krytycznej |
+| Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej z wymaganiami ustawy o krajowym systemie cyberbezpieczeństwa |
+| Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z rozporządzeniami wykonawczymi |
+| Zakres Audytu - Działalność | _nazwa usługi kluczowej_ |
+| Zakres audytu -  Proces | wsparcie systemu informacyjnego dla usługi kluczowej |
 | Data\(y\) Audytu |  |
 | Data wydania Raportu |  |
 | Data Raportu Poprzedniego i ilość niezgodności |  |
@@ -32,7 +32,7 @@
 
 #### Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK
 
-| Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane dostawcy cyberbezpieczeństwa, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w audycie |
+| Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane dostawcy usług cyberbezpieczeństwa, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w audycie |
 | :--- | :--- |
 | Zarządzanie ryzykiem |  |
 | Zarządzanie incydentem |  |
@@ -47,7 +47,7 @@
 | Zarządzanie systemem monitorowania w trybie ciągłym |  |
 | zarządzanie łącznością w ramach KSC |  |
 
-#### Informacja o audytorach wykonujących \(Dz.U. 2018 poz. 1999\)
+#### Informacja o audytorach wykonujących
 
 | Funkcja Audytowa | Imię i Nazwisko | Potwierdzenie kwalifikacje \(certyfikaty, wykształcenie i doświadczenie\) |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@
 | Audytor procesów 22301 |  |  |
 | Audytor bezpieczeństwa procesów biznesowych |  |  |
 
-Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności, oświadczają że w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
+Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardówm audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
 
 ## Niezgodności z poprzednich dwóch audytów KSC
 
@@ -247,11 +247,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 10, 11, 15 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8,
-* Wszystkie z wymienionych w Załączniku A do Polskiej Normy PN-EN ISO/IEC 27001.
+* Artykuł 8,10,11,15 ustawy o KSC
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\)
+* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\)
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8 
+* Wszystkie z wymienionych w Załączniku A do Polskiej Normy PN-EN ISO/IEC 27001
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -538,7 +538,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 8: Utrzymanie i rozwój systemów bezpieczeństwa
+### Obszar 8: Utrzymanie i rozwój systemów informacyjnych
 
 W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych wykorzystywanych do zapewniania, monitorowania i reagowania na incydenty bezpieczeństwa.
 
@@ -546,10 +546,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8, 9,10,
-* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.18.
+* Artykuł 8, 10 ustawy o KSC
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\)
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8, 9,10
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18
 
 ### Kontekst w zakresie Decyzji OUK
 
