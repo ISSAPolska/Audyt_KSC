@@ -88,6 +88,8 @@ W dniach ...... - ....... przeprowadzono audyt zgodności z wymaganiami Ustawy o
 
 Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzone w dniach ....... - ....... . Na podstawie otrzymanych informacji udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców.
 
+Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(opinia pozytywna, pozytywna z zastrzeżeniami, negatywna\) / odstępujemy od badania.
+
 Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych skutków i należy je rozumieć w następujący sposób:
 
 **krytyczny** - niezgodności mogące bezpośrednio doprowadzić do incydentu krytycznego lub uniemożliwić jego skuteczną obsługę
@@ -149,7 +151,11 @@ Prace realizowane były zgodnie z następującym harmonogramem:
 
 Ograniczenie zakresu nałożone na zespół audytowy, które nie pozwoliły na realizację szczegółowych celów i planów audytu bazujących na zapisach ustawy, rozporządzeń, metodyki lub/i charakteru organizacji. 
 
+## Opinia z badania
 
+Nasze prace były zgodne ze standardami atestacji ustanowionymi przez \(wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem była rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane  i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(opinia pozytywna, pozytywna z zastrzeżeniami, negatywna\) / odstępujemy od badania.
+
+Uzasadnieniem wyboru oceny jest ……… 
 
 ## Wyniki prac
 
@@ -718,6 +724,37 @@ Zakres prac obejmował między innymi adekwatne wymagania:
       <td style="text-align:left">Najwy&#x17C;sze Kierownictwo</td>
       <td style="text-align:left">osoba lub grupa os&#xF3;b, kt&#xF3;re na najwy&#x17C;szym szczeblu kieruj&#x105;
         organizacj&#x105; i j&#x105; nadzoruj&#x105;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Opinia pozytywna</td>
+      <td style="text-align:left">
+        <p>Opis systemu bezpiecze&#x144;stwa zosta&#x142; przygotowany z nale&#x17C;yt&#x105;
+          staranno&#x15B;ci&#x105;. Mog&#x105; istnie&#x107; drobne b&#x142;&#x119;dy
+          lub pomini&#x119;cia, jednak&#x17C;e ich waga nie jest znacz&#x105;ca.</p>
+        <p>Mechanizmy kontrolne istniej&#x105;. Skuteczno&#x15B;&#x107; mechanizm&#xF3;w
+          kontrolnych w odniesieniu cel&#xF3;w jest spe&#x142;niona. Mog&#x105; istnie&#x107;
+          drobne b&#x142;&#x119;dy lub odchylenia, jednak&#x17C;e ich waga nie jest
+          znacz&#x105;ca.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Opinia pozytywna z zastrze&#x17C;eniami</td>
+      <td style="text-align:left">Opis systemu bezpiecze&#x144;stwa zosta&#x142; przygotowany z nale&#x17C;yt&#x105;
+        staranno&#x15B;ci&#x105;, jednak&#x17C;e zawiera b&#x142;&#x119;dy lub
+        pomini&#x119;cia. Mechanizmy kontrolne istniej&#x105;, lecz ich skuteczno&#x15B;&#x107;
+        w odniesieniu do cel&#xF3;w zawiera odchylenia.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Opinia negatywna</td>
+      <td style="text-align:left">Opis systemu bezpiecze&#x144;stwa nie zosta&#x142; przygotowany z nale&#x17C;yt&#x105;
+        staranno&#x15B;ci&#x105; i zawiera ra&#x17C;&#x105;ce b&#x142;&#x119;dy
+        lub pomini&#x119;cia. Mechanizmy kontrolne nie istniej&#x105; lub ich skuteczno&#x15B;&#x107;
+        w odniesieniu cel&#xF3;w zawiera znacz&#x105;ce odchylenia.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Odst&#x105;pienie od badania</td>
+      <td style="text-align:left">Audytuj&#x105;cy nie otrzymali dowod&#xF3;w, na podatawie kt&#xF3;rych
+        mogliby wyda&#x107; opini&#x119;.</td>
     </tr>
     <tr>
       <td style="text-align:left">Program audytu</td>
