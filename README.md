@@ -1,6 +1,6 @@
 # Szablon raportu z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 
-### Metryka Raportu z Audytu KSC
+### Metryka Sprawozdania z Audytu KSC
 
 #### Metryka Audytu:
 
@@ -14,8 +14,8 @@
 | Zakres audytu -  Proces | wsparcie systemu informacyjnego dla usługi kluczowej |
 | Data\(y\) Audytu |  |
 | Data wydania Raportu |  |
-| Data Raportu Poprzedniego i ilość niezgodności |  |
-| Data Raportu poprzedniego do poprzedniego i ilość niezgodności |  |
+| Data Sprawozdania Poprzedniego i ilość niezgodności |  |
+| Data Sprawozdania poprzedniego do poprzedniego i ilość niezgodności |  |
 | Data objęcia Ustawą KSC |  |
 | Sektor |  |
 | Podsektor |  |
@@ -90,17 +90,69 @@ Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji ora
 
 Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(opinia pozytywna, pozytywna z zastrzeżeniami, negatywna\) / odstępujemy od badania.
 
-Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych skutków i należy je rozumieć w następujący sposób:
+Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
-**krytyczny** - niezgodności mogące bezpośrednio doprowadzić do incydentu krytycznego lub uniemożliwić jego skuteczną obsługę
-
-**wysoki** - niezgodności mogące bezpośrednio doprowadzić do incydentu poważnego lub ..... lub polegające na braku realizowania wymagań KSC
-
-**średni** - niezgodności mogące doprowadzić do incydentu zwykłego, lub ......, lub polegające na nieskutecznej realizacji wymagań KSC
-
-**niski** - obszary mogące w opinii zespołu audytowego doprowadzić w przyszłości do incydentów lub niezgodności o wyższym priorytecie
-
-Kluczowymi niezgodnościami, którymi, zdaniem zespołu audytowego, w pierwszej kolejności powinno zająć się najwyższe kierownictwo są:
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>POZIOM ISTOTNO&#x15A;CI</b>
+      </th>
+      <th style="text-align:left"><b>INTERPRETACJA</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">WYSOKI</td>
+      <td style="text-align:left">
+        <p>Wymagania, zabezpieczenia nie wdro&#x17C;one &#x2013; nie przedstawiono
+          &#x17C;adnego z wymaganych dokument&#xF3;w oraz nie istniej&#x105; wewn&#x119;trzne
+          nieformalne dzia&#x142;ania, kt&#xF3;re s&#x105; powtarzalne i spe&#x142;niaj&#x105;
+          dobre praktyki wskazane w wymaganiu.</p>
+        <p>Brak realizacji lub realizacja zada&#x144; na poziomie niskim.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x15A;REDNI</td>
+      <td style="text-align:left">
+        <p>Wymagania, zabezpieczenia cz&#x119;&#x15B;ciowo wdro&#x17C;one &#x2013;
+          zachodzi co najmniej jedna z nast&#x119;puj&#x105;cych okoliczno&#x15B;ci:</p>
+        <p>&#xB7; istnieje dokument, kt&#xF3;ry zosta&#x142; formalnie przyj&#x119;ty
+          (zatwierdzony) do stosowania, ale nie by&#x142; aktualizowany po zmianach
+          organizacyjnych lub technicznych;</p>
+        <p>&#xB7; zidentyfikowano dokument, jednak&#x17C;e nie znaleziono potwierdzenia,
+          &#x17C;e zapisy s&#x105; stosowane (przestrzegane) w praktyce lub testy
+          techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom) wykaza&#x142;y
+          istotne s&#x142;abo&#x15B;ci zabezpieczenia;</p>
+        <p>&#xB7; istniej&#x105;cy dokument nie zawiera wszystkich tre&#x15B;ci wymaganych
+          przez wymagania lub wynikaj&#x105;cych z tzw. dobrych praktyk;</p>
+        <p>&#xB7; istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
+          s&#x105; powtarzalne, jednak&#x17C;e nie w pe&#x142;ni spe&#x142;niaj&#x105;
+          dobre praktyki wskazane w wymaganiu.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">NISKI</td>
+      <td style="text-align:left">
+        <p>Istnieje(&#x105;) dokument(y) formalnie przyj&#x119;ty (zatwierdzony)
+          do stosowania, kt&#xF3;ry okre&#x15B;la spos&#xF3;b realizacji danego zabezpieczenia
+          lub testy techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom)
+          wykaza&#x142;y skuteczne funkcjonowanie zabezpieczenia lub spe&#x142;nienia
+          wymogu.</p>
+        <p>Istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
+          s&#x105; powtarzalne i w pe&#x142;ni spe&#x142;niaj&#x105; dobre praktyki
+          wskazane w wymaganiu.</p>
+        <p>Pe&#x142;na realizacja zada&#x144; lub realizacja zada&#x144; na poziomie
+          prawie pe&#x142;nym.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">NIE DOTYCZY</td>
+      <td style="text-align:left">Zakres audytu nie obejmowa&#x142; danego obszaru lub ustalenia potwierdzaj&#x105;,
+        i&#x17C; obszar nie dotyczy danej organizacji.</td>
+    </tr>
+  </tbody>
+</table>Kluczowymi niezgodnościami, którymi, zdaniem zespołu audytowego, w pierwszej kolejności powinno zająć się najwyższe kierownictwo są:
 
 ........
 
@@ -163,15 +215,67 @@ Szczegółowe wyniki wykonanych prac obejmują ocenę zgodności z wymaganiami U
 
 Do określenia skutków zidentyfikowanych niezgodności wykorzystano następujące skale:
 
-**krytyczny** - niezgodności mogące bezpośrednio doprowadzić do incydentu krytycznego lub uniemożliwić jego skuteczną obsługę
-
-**wysoki** - niezgodności mogące bezpośrednio doprowadzić do incydentu poważnego lub ..... lub polegające na braku realizowania wymagań KSC
-
-**średni** - niezgodności mogące doprowadzić do incydentu zwykłego, lub ......, lub polegające na nieskutecznej realizacji wymagań KSC
-
-**niski** - obszary mogące w opinii zespołu audytowego doprowadzić w przyszłości do incydentów lub niezgodności o wyższym priorytecie
-
-Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze zgodnie z par............ KSC
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>POZIOM ISTOTNO&#x15A;CI</b>
+      </th>
+      <th style="text-align:left"><b>INTERPRETACJA</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">WYSOKI</td>
+      <td style="text-align:left">
+        <p>Wymagania, zabezpieczenia nie wdro&#x17C;one &#x2013; nie przedstawiono
+          &#x17C;adnego z wymaganych dokument&#xF3;w oraz nie istniej&#x105; wewn&#x119;trzne
+          nieformalne dzia&#x142;ania, kt&#xF3;re s&#x105; powtarzalne i spe&#x142;niaj&#x105;
+          dobre praktyki wskazane w wymaganiu.</p>
+        <p>Brak realizacji lub realizacja zada&#x144; na poziomie niskim.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x15A;REDNI</td>
+      <td style="text-align:left">
+        <p>Wymagania, zabezpieczenia cz&#x119;&#x15B;ciowo wdro&#x17C;one &#x2013;
+          zachodzi co najmniej jedna z nast&#x119;puj&#x105;cych okoliczno&#x15B;ci:</p>
+        <p>&#xB7; istnieje dokument, kt&#xF3;ry zosta&#x142; formalnie przyj&#x119;ty
+          (zatwierdzony) do stosowania, ale nie by&#x142; aktualizowany po zmianach
+          organizacyjnych lub technicznych;</p>
+        <p>&#xB7; zidentyfikowano dokument, jednak&#x17C;e nie znaleziono potwierdzenia,
+          &#x17C;e zapisy s&#x105; stosowane (przestrzegane) w praktyce lub testy
+          techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom) wykaza&#x142;y
+          istotne s&#x142;abo&#x15B;ci zabezpieczenia;</p>
+        <p>&#xB7; istniej&#x105;cy dokument nie zawiera wszystkich tre&#x15B;ci wymaganych
+          przez wymagania lub wynikaj&#x105;cych z tzw. dobrych praktyk;</p>
+        <p>&#xB7; istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
+          s&#x105; powtarzalne, jednak&#x17C;e nie w pe&#x142;ni spe&#x142;niaj&#x105;
+          dobre praktyki wskazane w wymaganiu.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">NISKI</td>
+      <td style="text-align:left">
+        <p>Istnieje(&#x105;) dokument(y) formalnie przyj&#x119;ty (zatwierdzony)
+          do stosowania, kt&#xF3;ry okre&#x15B;la spos&#xF3;b realizacji danego zabezpieczenia
+          lub testy techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom)
+          wykaza&#x142;y skuteczne funkcjonowanie zabezpieczenia lub spe&#x142;nienia
+          wymogu.</p>
+        <p>Istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
+          s&#x105; powtarzalne i w pe&#x142;ni spe&#x142;niaj&#x105; dobre praktyki
+          wskazane w wymaganiu.</p>
+        <p>Pe&#x142;na realizacja zada&#x144; lub realizacja zada&#x144; na poziomie
+          prawie pe&#x142;nym.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">NIE DOTYCZY</td>
+      <td style="text-align:left">Zakres audytu nie obejmowa&#x142; danego obszaru lub ustalenia potwierdzaj&#x105;,
+        i&#x17C; obszar nie dotyczy danej organizacji.</td>
+    </tr>
+  </tbody>
+</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze zgodnie z par............ KSC
 
 W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
@@ -697,11 +801,17 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">P&#x15A;UB</td>
-      <td style="text-align:left">Podmiot &#x15A;wiadcz&#x105;cy us&#x142;ugi cyberbezpiecze&#x144;stwa</td>
+      <td style="text-align:left">Podmiot &#x15A;wiadcz&#x105;cy us&#x142;ugi z zakresu cyberbezpiecze&#x144;stwa</td>
     </tr>
     <tr>
-      <td style="text-align:left">KSC</td>
-      <td style="text-align:left">Ustawa o Krajowym Systemie Cyberbezpiecze&#x144;stwa</td>
+      <td style="text-align:left">UKSC</td>
+      <td style="text-align:left">ustawa o krajowym systemie cyberbezpiecze&#x144;stwa</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DC</td>
+      <td style="text-align:left">Dzia&#x142;, Departament, Biuro lub inna jednostka organizacyjna bezpo&#x15B;rednio
+        odpowiedzialne za realizacj&#x119; zada&#x144; w zakresie cyberbezpiecze&#x144;stwa
+        OUK</td>
     </tr>
     <tr>
       <td style="text-align:left">OUK</td>
@@ -709,9 +819,12 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">UK</td>
-      <td style="text-align:left">Us&#x142;uga Kluczowa - zestaw funkcji, towar&#xF3;w i us&#x142;ug uznanych
-        przez Organ W&#x142;a&#x15B;ciwych za istotny dla sprawnego dzia&#x142;ania
-        Cyberbezpiecze&#x144;stwa Rzeczypospolitej Polskiej</td>
+      <td style="text-align:left">Us&#x142;uga Kluczowa &#x2013; us&#x142;uga, kt&#xF3;ra ma kluczowe znaczenie
+        dla utrzymania krytycznej dzia&#x142;alno&#x15B;ci spo&#x142;ecznej lub
+        gospodarczej, wymienion&#x105; w wykazie us&#x142;ug kluczowych Rozporz&#x105;dzenie
+        Rady Ministr&#xF3;w z dnia 11 wrze&#x15B;nia 2018 r. w sprawie wykazu us&#x142;ug
+        kluczowych oraz prog&#xF3;w istotno&#x15B;ci skutku zak&#x142;&#xF3;caj&#x105;cego
+        incydentu dla &#x15B;wiadczenia us&#x142;ug kluczowych (Dz. U. poz. 1806))</td>
     </tr>
     <tr>
       <td style="text-align:left">Mechanizm kontrolny</td>
@@ -762,11 +875,12 @@ Zakres prac obejmował między innymi adekwatne wymagania:
         Us&#x142;ugi Kluczowej program zadania audytowego</td>
     </tr>
     <tr>
-      <td style="text-align:left">Raport z audytu</td>
-      <td style="text-align:left">dokument przygotowany pod nadzorem Audytora Wiod&#x105;cego zawieraj&#x105;cy
-        obserwacje (ustalenia stanu faktycznego) w zakresie zaobserwowanych niezgodno&#x15B;ci,
-        ocen&#x119; systemu, klasyfikacj&#x119; zidentyfikowanego ryzyka oraz rekomendacje
-        dla Kierownictwa OUK</td>
+      <td style="text-align:left">Sprawozdanie z audytu</td>
+      <td style="text-align:left">Pisemne sprawozdanie przygotowane pod nadzorem Audytora Wiod&#x105;cego
+        zawieraj&#x105;cy obserwacje (ustalenia stanu faktycznego) w zakresie zaobserwowanych
+        niezgodno&#x15B;ci, ocen&#x119; systemu, klasyfikacj&#x119; zidentyfikowanego
+        ryzyka oraz rekomendacje dla Kierownictwa OUK, a tak&#x17C;e zawieraj&#x105;cy
+        dokumentacje z przeprowadzonego audytu.</td>
     </tr>
     <tr>
       <td style="text-align:left">Skuteczno&#x15B;&#x107; mechanizmu kontrolnego</td>
@@ -785,18 +899,17 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">Operator us&#x142;ugi kluczowej</td>
-      <td style="text-align:left">Podmiot gospodarczy wykonuj&#x105;cy dzia&#x142;ania uznane przez pa&#x144;stwo
-        Polskie za istotne, a wobec kt&#xF3;rego organ w&#x142;a&#x15B;ciwy do
-        spraw cyberbezpiecze&#x144;stwa wyda&#x142; decyzj&#x119; o uznaniu za
-        operatora us&#x142;ugi kluczowej</td>
+      <td style="text-align:left">Podmiot, o kt&#xF3;rym mowa w za&#x142;&#x105;czniku nr 1 do ustawy o
+        ksc, posiadaj&#x105;cy jednostk&#x119; organizacyjn&#x105; na terytorium
+        Rzeczypospolitej Polskiej, wobec kt&#xF3;rego organ w&#x142;a&#x15B;ciwy
+        do spraw cyberbezpiecze&#x144;stwawyda&#x142; decyzj&#x119; o uznaniu za
+        operatora us&#x142;ugi kluczowej.</td>
     </tr>
     <tr>
       <td style="text-align:left">Organ w&#x142;a&#x15B;ciwy</td>
       <td style="text-align:left">Organami w&#x142;a&#x15B;ciwymi do spraw cyberbezpiecze&#x144;stwa s&#x105;
-        ministerowie w&#x142;a&#x15B;ciwi do spraw zgodnie z podzia&#x142;em sektorowym.
-        Organ w&#x142;a&#x15B;ciwy kontroluje i nak&#x142;ada kary pieni&#x119;&#x17C;ne
-        na operator&#xF3;w us&#x142;ug kluczowych i dostawc&#xF3;w us&#x142;ug
-        cyfrowych</td>
+        organy administracji pa&#x144;stwowej wymienione w art. 41 pkt 1-9 ustawy
+        o ksc.</td>
     </tr>
     <tr>
       <td style="text-align:left">Zarz&#x105;dzanie incydentem</td>
@@ -842,9 +955,10 @@ Zakres prac obejmował między innymi adekwatne wymagania:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Pe&#x142;nomocnik OUK</td>
+      <td style="text-align:left">Osoba do kontaktu</td>
       <td style="text-align:left">osoba odpowiedzialn&#x105; za utrzymywanie kontakt&#xF3;w z podmiotami
-        krajowego systemu cyberbezpiecze&#x144;stwa</td>
+        krajowego systemu cyberbezpiecze&#x144;stwa, ze szczeg&#xF3;lnym uwzgl&#x119;dnieniem
+        zespo&#x142;&#xF3;w CSIRT i organ&#xF3;w w&#x142;a&#x15B;ciwych.</td>
     </tr>
     <tr>
       <td style="text-align:left">W&#x142;a&#x15B;ciciel procesu zarz&#x105;dzania ryzykiem</td>
@@ -892,11 +1006,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">SI_OUK</td>
-      <td style="text-align:left">system informacyjny operatora us&#x142;ugi kluczowej identyfikowany w
-        organizacji jako jeden lub wiele komponent&#xF3;w technologicznych potrzebnych
-        do poprawnego i optymalnego z punktu widzenia ekonomicznego dzia&#x142;ania
-        zestawu us&#x142;ug / produkt&#xF3;w uznanych przez organ w&#x142;a&#x15B;ciwy
-        za podstaw&#x119; dzia&#x142;ania us&#x142;ugi kluczowej</td>
+      <td style="text-align:left">System informacyjny/systemy informacyjne operatora us&#x142;ugi kluczowej,
+        od kt&#xF3;rego zale&#x17C;ne jest &#x15B;wiadczenie us&#x142;ugi kluczowej.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
