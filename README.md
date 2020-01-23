@@ -28,11 +28,11 @@
 | Prezes/dyrektor generalny |  |
 | Audytor wewnętrzny |  |
 | Pełnomocnik OUK |  |
-| Nadzorujący audyt KSC |  |
+| Nadzorujący Audyt KSC |  |
 
 #### Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK
 
-| Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane dostawcy usług cyberbezpieczeństwa, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w audycie |
+| Typ procesu / aktywności wymaganej KSC | Imię i Nazwisko pracownika OUK lub dane PŚUB, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w Audycie |
 | :--- | :--- |
 | Zarządzanie ryzykiem |  |
 | Zarządzanie incydentem |  |
@@ -84,11 +84,11 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
 ## Podsumowanie dla kierownictwa
 
-W dniach ...... - ....... przeprowadzono audyt zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1999\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
+W dniach ...... - ....... przeprowadzono Audyt zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1999\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
 
-Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzone w dniach ....... - ....... . Na podstawie otrzymanych informacji udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców.
+Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzone w dniach ....... - ....... . Na podstawie otrzymanych informacji udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
 
-Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(opinia pozytywna, pozytywna z zastrzeżeniami, negatywna\) / odstępujemy od badania.
+Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
@@ -102,6 +102,13 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">KRYTYCZNY</td>
+      <td style="text-align:left">Zidentyfikowano niezgodno&#x15B;ci &#x15B;wiadcz&#x105;ce o wyst&#x105;pieniu
+        Incydentu Powa&#x17C;nego lub wskazuj&#x105;ce na nieskuteczno&#x15B;&#x107;
+        zabezpiecze&#x144; bezpo&#x15B;rednio umo&#x17C;liwiaj&#x105;c&#x105; wyst&#x105;pienie
+        Incydentu Powa&#x17C;nego</td>
+    </tr>
     <tr>
       <td style="text-align:left">WYSOKI</td>
       <td style="text-align:left">
@@ -175,15 +182,15 @@ Celem wykonanych prac była ocena procesu zarządzania bezpieczeństwem informac
 
 Zakres prac obejmował:
 
-* zrozumienie kontekstu działania organizacji w tym wpływ systemów IT na usługę krytyczną
+* zrozumienie kontekstu działania organizacji w tym wpływ Systemów IT \(SI\_OUK\) na Usługę Krytyczną
 * analizę dokumentacji
 * testy skuteczności funkcjonowania mechanizmów kontrolnych
 * opracowanie raportu zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami
-* przestawienie wyników audytu dla najwyższego kierownictwa
+* przestawienie wyników Audytu dla Najwyższego Kierownictwa
 
 ## Przebieg prac
 
-Prace zostały wykonane w dniach ...... - ....... i polegały na analizie wybranej dokumentacji, wywiadach z wybranymi pracownikami, obserwacjach i wizji lokalnej w ..... jednostkach. Dodatkowo w ramach audytu przeprowadzono testy techniczne obejmujące swoim zakresem:
+Prace zostały wykonane w dniach ...... - ....... i polegały na analizie wybranej dokumentacji, wywiadach z wybranymi pracownikami, obserwacjach i wizji lokalnej w ..... jednostkach. Dodatkowo w ramach Audytu przeprowadzono testy techniczne obejmujące swoim zakresem:
 
 * weryfikację podatności na ... stacjach
 * weryfikację luk w systemie ....
@@ -201,11 +208,13 @@ Prace realizowane były zgodnie z następującym harmonogramem:
 
 ## Wykluczenia i ograniczenia zakresu
 
-Ograniczenie zakresu nałożone na zespół audytowy, które nie pozwoliły na realizację szczegółowych celów i planów audytu bazujących na zapisach ustawy, rozporządzeń, metodyki lub/i charakteru organizacji. 
+Ograniczenie zakresu nałożone na Zespół Audytowy, które nie pozwoliły na realizację szczegółowych celów i planów Audytu bazujących na zapisach ustawy, rozporządzeń, metodyki lub/i charakteru organizacji:
+
+* brak
 
 ## Opinia z badania
 
-Nasze prace były zgodne ze standardami atestacji ustanowionymi przez \(wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem była rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane  i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(opinia pozytywna, pozytywna z zastrzeżeniami, negatywna\) / odstępujemy od badania.
+Przeboeg Audytu przeprowadzony był zgodnie ze standardami atestacji ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane  i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Uzasadnieniem wyboru oceny jest ……… 
 
@@ -225,6 +234,13 @@ Do określenia skutków zidentyfikowanych niezgodności wykorzystano następują
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">KRYTYCZNY</td>
+      <td style="text-align:left">Zidentyfikowano niezgodno&#x15B;ci &#x15B;wiadcz&#x105;ce o wyst&#x105;pieniu
+        Incydentu Powa&#x17C;nego lub wskazuj&#x105;ce na nieskuteczno&#x15B;&#x107;
+        zabezpiecze&#x144; bezpo&#x15B;rednio umo&#x17C;liwiaj&#x105;c&#x105; wyst&#x105;pienie
+        Incydentu Powa&#x17C;nego</td>
+    </tr>
     <tr>
       <td style="text-align:left">WYSOKI</td>
       <td style="text-align:left">
@@ -275,7 +291,7 @@ Do określenia skutków zidentyfikowanych niezgodności wykorzystano następują
         i&#x17C; obszar nie dotyczy danej organizacji.</td>
     </tr>
   </tbody>
-</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze zgodnie z par............ KSC
+</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami KSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach Art 42 KSC
 
 W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
@@ -309,18 +325,18 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Dokumentacja Systemu Informacyjnego wspierającego usługę kluczową
 
-1. Umowy z dostawcami \(wsparcie techniczne\) itp. 
-2. Raporty z audytów systemów informacyjnych wspierających usługę kluczową
-3. Dokumentacja zmian w systemach informacyjnych
-4. Umowy z dostawcami usług z zakresu cyberbezpieczeństwa
-5. Wyniki audytów u dostawców usług cyberbezpieczeństwa
-6. Baza danych konfiguracji urządzeń aktywnych
-7. Dokumentacja architektury zastosowanych zabezpieczeń
-8. Dokumentacja zabezpieczeń fizycznych i środowiskowych
-9. Dokumentacja architektury sieci. Zarządzanie zmianą
-10. Dokumentacja dotycząca monitorowania w trybie ciągłym
-11. Rejestr dostępu do dokumentacji systemu informacyjnego
-12. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+1. Raporty z audytów systemów informacyjnych wspierających usługę kluczową
+2. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+3. Dokumentacja architektury zastosowanych zabezpieczeń
+4. Dokumentacja architektury sieci. 
+5. Baza danych konfiguracji urządzeń aktywnych
+6. Dokumentacja zmian w systemach informacyjnych
+7. Dokumentacja dotycząca monitorowania w trybie ciągłym
+8. Umowy z dostawcami \(wsparcie techniczne\) itp. 
+9. Umowy z dostawcami usług z zakresu cyberbezpieczeństwa
+10. Wyniki audytów u dostawców usług cyberbezpieczeństwa
+11. Dokumentacja zabezpieczeń fizycznych i środowiskowych
+12. Rejestr dostępu do dokumentacji systemu informacyjnego
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -337,7 +353,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwo informacji.
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami bezpieczeńśtwa informacji w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwem informacji.
 
 |  |  |
 | :--- | :--- |
@@ -362,13 +378,13 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 #### System bazujący na SZBI ISO-27001
 
 1. **Weryfikacja polityki bezpieczeństwa.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce \(Dz. U. XXX z 23.12.2019\)**
-2. Role i odpowiedzialności w DC Deklaracja stosowania \(Norma-&gt; 6.1.3.d\) 
+2. Role i odpowiedzialności w DC Deklaracja stosowania 
 3. Dokumentacja powołania DC 
 4. Plany postępowania z ryzykiem 
-5. Przegląd komunikatów z DC do organizacji \(Norma-&gt; 7.4\) 
+5. Przegląd komunikatów z DC do organizacji 
 6. Raport z wykonanych audytów wewnętrznych i zewnętrznych SZBI 
 7. Raport z przeglądów zarządzania 
-8. Dokumentacja nadzoru nad utrzymaniem \(Norma-&gt; 8.1\) 
+8. Dokumentacja nadzoru nad utrzymaniem 
 9. Baza konfiguracji urządzeń / inwentaryzacja aktywów 
 10. Określenie obszarów obowiązywania SZBI \(zakres\)
 
@@ -463,7 +479,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.12, A.16,
-* **Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1**
+* Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -785,6 +801,33 @@ Zakres prac obejmował między innymi adekwatne wymagania:
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Audyt</td>
+      <td style="text-align:left">niezale&#x17C;ne i obiektywne potwierdzenie zgodno&#x15B;ci z wymaganiami</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">KSC</td>
+      <td style="text-align:left">Ustawa o Krajowym Systemie Cyberbezpiecze&#x144;stwa z 5 lipca 2018 (Dz.U.
+        2018 poz. 1560)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Raport</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sprawozdanie Poprzednie</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Niezgodno&#x15B;&#x107;</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Incydent powa&#x17C;ny</td>
+      <td style="text-align:left">incydent powa&#x17C;ny w rozumieniu Rozporz&#x105;dzenia Rady Ministr&#xF3;w
+        z dnia 31 pa&#x17A;dziernika 2018 r. w sprawie prog&#xF3;w uznania incydentu
+        za powa&#x17C;ny (Dz. U. poz. 2180),</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Audytor Wiod&#x105;cy</td>
       <td style="text-align:left">Audytor wyznaczony jako lider zespo&#x142;u audytowego, odpowiedzialny
         za realizacj&#x119; audytu zgodnie z zakresem, programem i ocen&#x119;
@@ -801,11 +844,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">P&#x15A;UB</td>
-      <td style="text-align:left">Podmiot &#x15A;wiadcz&#x105;cy us&#x142;ugi z zakresu cyberbezpiecze&#x144;stwa</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">UKSC</td>
-      <td style="text-align:left">ustawa o krajowym systemie cyberbezpiecze&#x144;stwa</td>
+      <td style="text-align:left">Podmiot &#x15A;wiadcz&#x105;cy us&#x142;ugi z zakresu cyberbezpiecze&#x144;stwa
+        w rozumieniu KSC</td>
     </tr>
     <tr>
       <td style="text-align:left">DC</td>
@@ -815,7 +855,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">OUK</td>
-      <td style="text-align:left">Operator Us&#x142;ugi Kluczowej</td>
+      <td style="text-align:left">Operator Us&#x142;ugi Kluczowej w rozumieniu KSC</td>
     </tr>
     <tr>
       <td style="text-align:left">UK</td>
