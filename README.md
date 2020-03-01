@@ -214,7 +214,7 @@ Ograniczenie zakresu nałożone na Zespół Audytowy, które nie pozwoliły na r
 
 ## Opinia z badania
 
-Przeboeg Audytu przeprowadzony był zgodnie ze standardami atestacji ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane  i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Przebieg Audytu przeprowadzony był zgodnie ze standardami atestacji ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane  i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Uzasadnieniem wyboru oceny jest ……… 
 
@@ -810,16 +810,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
         2018 poz. 1560)</td>
     </tr>
     <tr>
-      <td style="text-align:left">Raport</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Sprawozdanie z audytu</td>
+      <td style="text-align:left">Dokument wynikowy prac audytorskich.</td>
     </tr>
     <tr>
       <td style="text-align:left">Sprawozdanie Poprzednie</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Sprawozdanie z poprzedniego audytu zgodnego z ustaw&#x105; o Krajowym
+        Systemie Cyberbezpiecze&#x144;stwa</td>
     </tr>
     <tr>
       <td style="text-align:left">Niezgodno&#x15B;&#x107;</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Odst&#x119;pstwo od przepisu, normy, standardu, wymagania, niespe&#x142;nienie
+        za&#x142;o&#x17C;onego celu mechanizmu kontrolnego (zabezpieczenia), nieskuteczno&#x15B;&#x107;
+        mechanizmu kontrolnego (zabezpieczenia).</td>
     </tr>
     <tr>
       <td style="text-align:left">Incydent powa&#x17C;ny</td>
