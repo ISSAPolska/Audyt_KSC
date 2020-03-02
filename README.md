@@ -1,4 +1,4 @@
-# Szablon raportu z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
+# Szablon Sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 
 ### Metryka Sprawozdania z Audytu KSC
 
