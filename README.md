@@ -6,7 +6,7 @@
 
 | Opis | Treść |
 | :--- | :--- |
-| Audytowana Jednostka Organizacyjna |  |
+| Audytowana Jednostka Organizacyjna | Testowy wpis |
 | Audytowane lokalizacje: |  |
 | Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej z wymaganiami ustawy o krajowym systemie cyberbezpieczeństwa |
 | Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z rozporządzeniami wykonawczymi |
