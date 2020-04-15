@@ -1,3 +1,9 @@
+---
+description: >-
+  Szablon sprawozdania z przeprowadzonego audytu zgodnego z ustawą o Krajowym
+  Systemie Cyberbezpieczeństwa
+---
+
 # Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 
 ### Metryka Sprawozdania z Audytu UKSC
@@ -7,16 +13,19 @@
 | Opis | Treść |
 | :--- | :--- |
 | Audytowana Jednostka Organizacyjna |  |
-| Audytowane lokalizacje: |  |
+| Audytowane lokalizacje: | Należy podać pełne dane teleadresowe |
 | Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej z wymaganiami ustawy o krajowym systemie cyberbezpieczeństwa |
-| Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z rozporządzeniami wykonawczymi |
-| Zakres Audytu - Działalność | _nazwa usługi kluczowej_ |
+| Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z rozporządzeniami |
+| Zakres Audytu - Działalność | _nazwa i zakres usługi kluczowej lub usług kluczowych_ |
 | Zakres audytu -  Proces | wsparcie systemu informacyjnego dla usługi kluczowej |
-| Data\(y\) Audytu |  |
+| Certyfikowane Systemy Zarządzania | System Zarządzania Bezpieczeństwem Informacji zgodny z ISO 27001, System Zarządzania Ciągłością Działania zgodny z ISO 22301, etc. |
+| Zasoby informatyczne, w szczególności | wpisać ilość serwerów, systemy przetwarzania, aplikacje, bazy danych, stacje robocze, etc. |
+| Systemy informacyjne od których zależy usługa kluczowa |  |
+| Data rozpoczęcia i zakończenia Audytu |  |
 | Data wydania Raportu |  |
 | Data Sprawozdania Poprzedniego i ilość niezgodności |  |
 | Data Sprawozdania poprzedniego do poprzedniego i ilość niezgodności |  |
-| Data objęcia UKSC |  |
+| Data decyzji o uznaniu za OUK |  |
 | Sektor |  |
 | Podsektor |  |
 | Opis progu uznania Incydentu za poważny |  |
@@ -45,18 +54,19 @@
 | Bezpieczeństwo i ciągłość dostaw usług |  |
 | Zarządzanie ciągłością działania UK |  |
 | Zarządzanie systemem monitorowania w trybie ciągłym |  |
-| zarządzanie łącznością w ramach UKSC |  |
+| Zarządzanie łącznością w ramach UKSC |  |
 
 #### Informacja o audytorach wykonujących
 
-| Funkcja Audytowa | Imię i Nazwisko | Potwierdzenie kwalifikacje \(certyfikaty, wykształcenie i doświadczenie\) |
-| :--- | :--- | :--- |
-| Audytor Wiodący |  |  |
-| Audytor Systemy Operacyjne |  |  |
-| Audytor warstwa aplikacji i baz danych |  |  |
-| Audytor procesów 27001 |  |  |
-| Audytor procesów 22301 |  |  |
-| Audytor bezpieczeństwa procesów biznesowych |  |  |
+| Funkcja Audytowa | Imię i Nazwisko | Potwierdzenie kwalifikacje \(certyfikaty, wykształcenie i doświadczenie\) | Audytowany obszar |
+| :--- | :--- | :--- | :--- |
+| Audytor Wiodący |  |  |  |
+| Audytor Systemy Operacyjne |  |  |  |
+| Audytor warstwa aplikacji i baz danych |  |  |  |
+| Audytor procesów 27001 |  |  |  |
+| Audytor procesów 22301 |  |  |  |
+| Audytor bezpieczeństwa procesów biznesowych |  |  |  |
+| Audytor systemów typu ICS / SCADA / OT |  |  |  |
 
 Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardówm audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
 
@@ -84,11 +94,11 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
 ## Podsumowanie dla kierownictwa
 
-W dniach ...... - ....... przeprowadzono Audyt zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
+W dniach ...... - ....... przeprowadzono Audyt cyberbezpieczeństwa na podstawie  wymagań Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
 
-Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzone w dniach ....... - ....... . Na podstawie otrzymanych informacji udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
+Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i zostały przeprowadzone w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
 
-Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
@@ -176,17 +186,17 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 
 ### Cel prac
 
-Celem wykonanych prac była ocena procesu zarządzania bezpieczeństwem informacji realizowanego przez ....&lt;nazwa klienta&gt;... oraz identyfikacja i analiza luki zgodności w wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa
+Celem wykonanych prac była ocena bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej realizowanego przez ....&lt;nazwa klienta&gt;... oraz identyfikacja i analiza luki zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa
 
 ### Zakres prac
 
 Zakres prac obejmował:
 
 * Zrozumienie kontekstu działania organizacji w tym wpływ Systemów IT i/lub OT \(SI\_OUK\) na Usługę Kluczową
-* Potwierdzenie realizacji obowiązków Operatora Usługi Kluczowej zgodnie z artykułami 8-14 Ustawy o Krajowym Systemie Cyberbezpieczeństwa 
-* Analizę dokumentacji systemu informacyjnego wpierającego świadczenie Usługi Kluczowej 
+* Potwierdzenie realizacji obowiązków Operatora Usługi Kluczowej zgodnie z artykułami 8-16 Ustawy o Krajowym Systemie Cyberbezpieczeństwa 
+* Analizę dokumentacji dotyczącą cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
 * Testy skuteczności funkcjonowania mechanizmów kontrolnych
-* Opracowanie raportu zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami
+* Opracowanie sprawozdania zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami
 * Przestawienie wyników Audytu dla Najwyższego Kierownictwa
 
 ## Przebieg prac
@@ -198,13 +208,13 @@ Prace zostały wykonane w dniach ...... - ....... i polegały na analizie wybran
 
 Prace realizowane były zgodnie z następującym harmonogramem:
 
-1. uruchomienie projektu i spotkanie organizacyjne
-2. planowanie prac
+1. Uruchomienie prac audytowych i spotkanie organizacyjne
+2. Planowanie prac
 3. Etap I
 4. Etap II
 5. Raportowanie wyników analizy luki zgodności
-6. Przesłanie raportu do uzgodnień
-7. Przygotowanie ostatecznej wersji raportu
+6. Przesłanie sprawozdania do uzgodnień
+7. Przygotowanie ostatecznej wersji sprawozdania
 8. Omówienie wyników analizy niezgodności
 
 ## Wykluczenia i ograniczenia zakresu
@@ -215,7 +225,7 @@ Ograniczenie zakresu nałożone na Zespół Audytowy, które nie pozwoliły na r
 
 ## Opinia z badania
 
-Przebieg Audytu przeprowadzony był zgodnie ze standardami atestacji ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane  i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Przebieg Audytu przeprowadzony był zgodnie ze standardami zapewnienia ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Uzasadnieniem wyboru oceny jest ……… 
 
@@ -476,7 +486,7 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 Zakres prac obejmował między innymi adekwatne wymagania:
 
 * Artykuł 8, 11, 12, 13 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
+* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
 * Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
 * Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
@@ -880,7 +890,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">Najwy&#x17C;sze Kierownictwo</td>
-      <td style="text-align:left">osoba lub grupa os&#xF3;b, kt&#xF3;re na najwy&#x17C;szym szczeblu kieruj&#x105;
+      <td style="text-align:left">Osoba lub grupa os&#xF3;b, kt&#xF3;re na najwy&#x17C;szym szczeblu kieruj&#x105;
         organizacj&#x105; i j&#x105; nadzoruj&#x105;</td>
     </tr>
     <tr>
@@ -939,7 +949,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     </tr>
     <tr>
       <td style="text-align:left">System informacyjny</td>
-      <td style="text-align:left">System informatyczny oraz otaczaj&#x105;cy ekosytem proces&#xF3;w wykorzystywany
+      <td style="text-align:left">System informatyczny oraz otaczaj&#x105;cy ekosystem proces&#xF3;w wykorzystywany
         do &#x15B;wiadczenia us&#x142;ugi kluczowej</td>
     </tr>
     <tr>
@@ -957,8 +967,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
     <tr>
       <td style="text-align:left">Zarz&#x105;dzanie incydentem</td>
       <td style="text-align:left">
-        <p>bie&#x17C;&#x105;cy i udokumentowany proces og&#xF3;lnego post&#x119;powania
-          w trakcie obs&#x142;ugi incydentu polegaj&#x105;cego conajmniej na podejmowaniu
+        <p>Bie&#x17C;&#x105;cy i udokumentowany proces og&#xF3;lnego post&#x119;powania
+          w trakcie obs&#x142;ugi incydentu polegaj&#x105;cego co najmniej na podejmowaniu
           dzia&#x142;a&#x144; i dokumentowania z podzia&#x142;em na fazy:</p>
         <ul>
           <li>wyszukiwanie powi&#x105;za&#x144; mi&#x119;dzy incydentami,</li>
