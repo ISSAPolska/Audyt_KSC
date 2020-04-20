@@ -74,7 +74,7 @@ Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio za
 
 Audyt poprzedni \(jeśli dotyczy\) z dnia:
 
-| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -83,7 +83,7 @@ Audyt poprzedni \(jeśli dotyczy\) z dnia:
 
 Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
-| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -96,9 +96,9 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
 W dniach ...... - ....... przeprowadzono Audyt cyberbezpieczeństwa na podstawie  wymagań Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
 
-Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i zostały przeprowadzone w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
+Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzony w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na "Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
 
-Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …… \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
@@ -173,7 +173,7 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 
 ........
 
-| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
+| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
 | :--- | :--- |
 |  |  |
 |  |  |
@@ -181,6 +181,7 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 |  |  |
 
 .......
+Dowody wskazujące na opisane niezgodności stanowią załącznik do niniejszego raportu.
 
 ## Cel i zakres prac
 
