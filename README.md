@@ -74,7 +74,7 @@ Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio za
 
 Audyt poprzedni \(jeśli dotyczy\) z dnia:
 
-| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -83,7 +83,7 @@ Audyt poprzedni \(jeśli dotyczy\) z dnia:
 
 Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
-| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -96,9 +96,9 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
 W dniach ...... - ....... przeprowadzono Audyt cyberbezpieczeństwa na podstawie  wymagań Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
 
-Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzony w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na "Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
+Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i zostały przeprowadzone w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
 
-Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …… \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Podczas Audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
@@ -173,7 +173,7 @@ Podczas Audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 
 ........
 
-| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
 | :--- | :--- |
 |  |  |
 |  |  |
@@ -181,31 +181,30 @@ Podczas Audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 |  |  |
 
 .......
-Dowody wskazujące na opisane niezgodności stanowią załącznik do niniejszego raportu.
 
 ## Cel i zakres prac
 
 ### Cel prac
 
-Celem wykonanych prac była ocena bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej realizowanego przez ....&lt;nazwa klienta&gt;... oraz identyfikacja i analiza luki zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa
+Celem wykonanych prac była ocena bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia Usługi Kluczowej realizowanego przez ....&lt;nazwa klienta&gt;... oraz identyfikacja i analiza luki zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa
 
 ### Zakres prac
 
 Zakres prac obejmował:
 
-* Zrozumienie kontekstu działania organizacji w tym wpływ Systemów IT i/lub OT \(SI\_OUK\) na Usługę Kluczową
-* Potwierdzenie realizacji obowiązków Operatora Usługi Kluczowej zgodnie z artykułami 8-16 Ustawy o Krajowym Systemie Cyberbezpieczeństwa 
-* Analizę dokumentacji dotyczącą cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia Usługi Kluczowej
-* Testy skuteczności funkcjonowania mechanizmów kontrolnych
-* Opracowanie sprawozdania zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami
-* Przestawienie wyników Audytu dla Najwyższego Kierownictwa
+* zrozumienie kontekstu działania organizacji w tym wpływ Systemów IT i/lub OT \(SI\_OUK\) na Usługę Kluczową;
+* potwierdzenie realizacji obowiązków Operatora Usługi Kluczowej zgodnie z artykułami 8-16 Ustawy o Krajowym Systemie Cyberbezpieczeństwa;
+* analizę dokumentacji dotyczącą cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia Usługi Kluczowej;
+* testy skuteczności funkcjonowania mechanizmów kontrolnych;
+* opracowanie sprawozdania zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami;
+* przestawienie wyników Audytu dla Najwyższego Kierownictwa.
 
 ## Przebieg prac
 
 Prace zostały wykonane w dniach ...... - ....... i polegały na analizie wybranej dokumentacji, wywiadach z wybranymi pracownikami, obserwacjach i wizji lokalnej w ..... jednostkach. Dodatkowo w ramach Audytu przeprowadzono testy techniczne obejmujące swoim zakresem:
 
 * weryfikację podatności na ... stacjach
-* weryfikację luk w systemie ....
+* weryfikację luk w systemach ....
 
 Prace realizowane były zgodnie z następującym harmonogramem:
 
@@ -226,7 +225,7 @@ Ograniczenie zakresu nałożone na Zespół Audytowy, które nie pozwoliły na r
 
 ## Opinia z badania
 
-Przebieg Audytu przeprowadzony był zgodnie ze standardami zapewnienia ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace Audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Przebieg Audytu przeprowadzony był zgodnie ze standardami zapewnienia ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …… \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Uzasadnieniem wyboru oceny jest ……… 
 
@@ -303,9 +302,9 @@ Do określenia skutków zidentyfikowanych niezgodności wykorzystano następują
         i&#x17C; obszar nie dotyczy danej organizacji.</td>
     </tr>
   </tbody>
-</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami UKSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach artykułu 42 UKSC
+</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego Audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami UKSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach Art 42 UKSC.
 
-W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
+W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach Audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
 ### Obszar 1: Organizacja zarządzania bezpieczeństwem informacji
 
