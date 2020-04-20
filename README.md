@@ -14,13 +14,13 @@ description: >-
 | :--- | :--- |
 | Audytowana Jednostka Organizacyjna |  |
 | Audytowane lokalizacje: | Należy podać pełne dane teleadresowe |
-| Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej z wymaganiami ustawy o krajowym systemie cyberbezpieczeństwa |
+| Cel Audytu: | Potwierdzenie zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia Usługi Kluczowej z wymaganiami ustawy o Krajowym Systemie Cyberbezpieczeństwa |
 | Kryteria Audytu | Ustawa o Krajowym Systemie Cyberbezpieczeństwa z 5 lipca 2018 wraz z rozporządzeniami |
-| Zakres Audytu - Działalność | _nazwa i zakres usługi kluczowej lub usług kluczowych_ |
-| Zakres audytu -  Proces | wsparcie systemu informacyjnego dla usługi kluczowej |
+| Zakres Audytu - Działalność | _nazwa i zakres usługi kluczowej lub Usług Kluczowych_ |
+| Zakres Audytu -  Proces | wsparcie systemu informacyjnego dla Usługi Kluczowej |
 | Certyfikowane Systemy Zarządzania | System Zarządzania Bezpieczeństwem Informacji zgodny z ISO 27001, System Zarządzania Ciągłością Działania zgodny z ISO 22301, etc. |
 | Zasoby informatyczne, w szczególności | wpisać ilość serwerów, systemy przetwarzania, aplikacje, bazy danych, stacje robocze, etc. |
-| Systemy informacyjne od których zależy usługa kluczowa |  |
+| Systemy informacyjne od których zależy Usługa Kluczowa |  |
 | Data rozpoczęcia i zakończenia Audytu |  |
 | Data wydania Raportu |  |
 | Data Sprawozdania Poprzedniego i ilość niezgodności |  |
@@ -74,7 +74,7 @@ Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio za
 
 Audyt poprzedni \(jeśli dotyczy\) z dnia:
 
-| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -83,7 +83,7 @@ Audyt poprzedni \(jeśli dotyczy\) z dnia:
 
 Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
-| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet | Data zamknięcia niezgodności |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -96,11 +96,11 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
 W dniach ...... - ....... przeprowadzono Audyt cyberbezpieczeństwa na podstawie  wymagań Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
 
-Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzony w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na "Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
+Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i zostały przeprowadzone w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców. 
 
-Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …… \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
-Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
+Podczas Audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
 <table>
   <thead>
@@ -169,11 +169,11 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
         i&#x17C; obszar nie dotyczy danej organizacji.</td>
     </tr>
   </tbody>
-</table>Zdaniem zespołu audytowego, najważniejszymi niezgodnościami, którymi, w pierwszej kolejności powinno zająć się najwyższe kierownictwo są:
+</table>Zdaniem zespołu audytowego, najważniejszymi niezgodnościami, którymi, w pierwszej kolejności powinno zająć się Najwyższe Kierownictwo są:
 
 ........
 
-| Stwierdzenie faktu, numer i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
+| Stwierdzenie faktu i opis niezgodności \(w tym odniesienie do kryterium\) | Priorytet |
 | :--- | :--- |
 |  |  |
 |  |  |
@@ -181,31 +181,30 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 |  |  |
 
 .......
-Dowody wskazujące na opisane niezgodności stanowią załącznik do niniejszego raportu.
 
 ## Cel i zakres prac
 
 ### Cel prac
 
-Celem wykonanych prac była ocena bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej realizowanego przez ....&lt;nazwa klienta&gt;... oraz identyfikacja i analiza luki zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa
+Celem wykonanych prac była ocena bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia Usługi Kluczowej realizowanego przez ....&lt;nazwa klienta&gt;... oraz identyfikacja i analiza luki zgodności z wymaganiami Ustawy o Krajowym Systemie Cyberbezpieczeństwa
 
 ### Zakres prac
 
 Zakres prac obejmował:
 
-* Zrozumienie kontekstu działania organizacji w tym wpływ Systemów IT i/lub OT \(SI\_OUK\) na Usługę Kluczową
-* Potwierdzenie realizacji obowiązków Operatora Usługi Kluczowej zgodnie z artykułami 8-16 Ustawy o Krajowym Systemie Cyberbezpieczeństwa 
-* Analizę dokumentacji dotyczącą cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej
-* Testy skuteczności funkcjonowania mechanizmów kontrolnych
-* Opracowanie sprawozdania zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami
-* Przestawienie wyników Audytu dla Najwyższego Kierownictwa
+* zrozumienie kontekstu działania organizacji w tym wpływ Systemów IT i/lub OT \(SI\_OUK\) na Usługę Kluczową;
+* potwierdzenie realizacji obowiązków Operatora Usługi Kluczowej zgodnie z artykułami 8-16 Ustawy o Krajowym Systemie Cyberbezpieczeństwa;
+* analizę dokumentacji dotyczącą cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia Usługi Kluczowej;
+* testy skuteczności funkcjonowania mechanizmów kontrolnych;
+* opracowanie sprawozdania zawierającego opis zidentyfikowanych niezgodności wraz z rekomendacjami;
+* przestawienie wyników Audytu dla Najwyższego Kierownictwa.
 
 ## Przebieg prac
 
 Prace zostały wykonane w dniach ...... - ....... i polegały na analizie wybranej dokumentacji, wywiadach z wybranymi pracownikami, obserwacjach i wizji lokalnej w ..... jednostkach. Dodatkowo w ramach Audytu przeprowadzono testy techniczne obejmujące swoim zakresem:
 
 * weryfikację podatności na ... stacjach
-* weryfikację luk w systemie ....
+* weryfikację luk w systemach ....
 
 Prace realizowane były zgodnie z następującym harmonogramem:
 
@@ -226,7 +225,7 @@ Ograniczenie zakresu nałożone na Zespół Audytowy, które nie pozwoliły na r
 
 ## Opinia z badania
 
-Przebieg Audytu przeprowadzony był zgodnie ze standardami zapewnienia ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
+Przebieg Audytu przeprowadzony był zgodnie ze standardami zapewnienia ustanowionymi przez \(_wpisać na podstawie jakich standardów prowadzony był audyt np. ISACA, IIA_\). Te standardy wymagają, aby prace audytowe były zaplanowane i wykonane tak, aby ich wynikiem było rozsądne zapewnienie, że we wszystkich istotnych obszarach system bezpieczeństwa jest rzetelnie przygotowany, a mechanizmy kontrolne odpowiednio zaprojektowane i operują w taki sposób, aby osiągnąć związane z nimi cele kontroli. Wierzymy, że zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …… \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
 Uzasadnieniem wyboru oceny jest ……… 
 
@@ -303,13 +302,13 @@ Do określenia skutków zidentyfikowanych niezgodności wykorzystano następują
         i&#x17C; obszar nie dotyczy danej organizacji.</td>
     </tr>
   </tbody>
-</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami UKSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach Art 42 UKSC
+</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego Audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami UKSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach Art 42 UKSC.
 
-W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach audytu oraz analizy innych przedstawionych wyników testów technicznych.
+W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach Audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
 ### Obszar 1: Organizacja zarządzania bezpieczeństwem informacji
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie stworzenia i utrzymywania systemu zarządzania zapewniającego zgodność z UKSC. 
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie stworzenia i utrzymywania systemu zarządzania zapewniającego zgodność z UKSC. 
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -366,7 +365,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami bezpieczeńśtwa informacji w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwem informacji.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami bezpieczeńśtwa informacji w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwem informacji.
 
 |  |  |
 | :--- | :--- |
@@ -440,7 +439,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 3: Zarządzanie ryzykiem
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności stosowanej metodyki zarządzania ryzykiem oraz kompletności procesu zarządzania ryzykiem poczynając od identyfikacji ryzyka aż po nadzór nad wprowadzeniem rekomendacji.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności stosowanej metodyki zarządzania ryzykiem oraz kompletności procesu zarządzania ryzykiem poczynając od identyfikacji ryzyka aż po nadzór nad wprowadzeniem rekomendacji.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -480,7 +479,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 4: Monitorowanie i reagowanie na incydenty bezpieczeństwa
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie zdefiniowania wymagań, wdrożenia i konfiguracji narzędzi, ciągłego monitorowania i skutecznego reagowania na potencjalne incydenty.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie zdefiniowania wymagań, wdrożenia i konfiguracji narzędzi, ciągłego monitorowania i skutecznego reagowania na potencjalne incydenty.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -543,7 +542,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 5: Zarządzanie zmianą
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie identyfikowania potrzeby zmian, ustalania wymagań bezpieczeństwa, wyboru rozwiązań, dokumentowania, testowania i wdrażania zmian.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie identyfikowania potrzeby zmian, ustalania wymagań bezpieczeństwa, wyboru rozwiązań, dokumentowania, testowania i wdrażania zmian.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -581,7 +580,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 6: Zarządzanie ciągłością działania
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie dokonania analizy i zdefiniowania wymagań dla ciągłości działania, wdrożenia rozwiązań zapasowych i redundantnych, testowaniu zdolności, przygotowania odpowiednich umów z dostawcami oraz nadzorowaniu ich sposobu zapewnienia ciągłości działania.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie dokonania analizy i zdefiniowania wymagań dla ciągłości działania, wdrożenia rozwiązań zapasowych i redundantnych, testowaniu zdolności, przygotowania odpowiednich umów z dostawcami oraz nadzorowaniu ich sposobu zapewnienia ciągłości działania.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -634,7 +633,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 7: Utrzymanie systemów informacyjnych
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informacyjnych.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informacyjnych.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -673,7 +672,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 8: Utrzymanie i rozwój systemów informacyjnych
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych wykorzystywanych do zapewniania, monitorowania i reagowania na incydenty bezpieczeństwa.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych wykorzystywanych do zapewniania, monitorowania i reagowania na incydenty bezpieczeństwa.
 
 ### Kontekst w zakresie przepisów i normy
 
@@ -707,7 +706,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 9: Bezpieczeństwo fizyczne
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie skuteczności procesu ochrony fizycznej i środowiskowej.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie skuteczności procesu ochrony fizycznej i środowiskowej.
 
 ### Kontekst w zakresie przepisów i normy
 
