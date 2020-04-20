@@ -315,12 +315,12 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 9,10, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\), 
-* Rozporządzenie Ministra Cyfryzacji z dnia 4 grudnia 2019 r. w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo \(Dz.U. 2019 poz. 2479\)
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Rozporządzenie Ministra Cyfryzacji z dnia 12 października 2018 r. w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu \(Dz. U. poz. 1999\),
-* Rozporządzenie Ministra Cyfryzacji z dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług \(Dz. U. poz. 1830\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 5, 7, 9 i 10,
+* Artykułu 8, 9,10, 14, 15 i 16 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Ministra Cyfryzacji z dnia 4 grudnia 2019 r. w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo \(Dz.U. 2019 poz. 2479\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Rozporządzenia Ministra Cyfryzacji z dnia 12 października 2018 r. w sprawie wykazu certyfikatów uprawniających do przeprowadzenia audytu \(Dz. U. poz. 1999\);
+* Rozporządzenia Ministra Cyfryzacji z dnia 20 września 2018 r. w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług \(Dz. U. poz. 1830\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 5, 7, 9 i 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6 i A.18.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -331,17 +331,17 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Czynności wykonane w terminie 6 miesięcy
 * Czynności wykonane w terminie 12 miesięcy
 
-### Opis Identyfikacji systemu informacyjnego wspierającego usługę kluczową:
+### Opis Identyfikacji systemu informacyjnego wspierającego Usługę Kluczową:
 
 * lista elementów składowych
 * lista osób odpowiedzialnych
 
-### Dokumentacja Systemu Informacyjnego wspierającego usługę kluczową
+### Dokumentacja Systemu Informacyjnego wspierającego Usługę Kluczową
 
-1. Raporty z audytów systemów informacyjnych wspierających usługę kluczową
+1. Raporty z audytów systemów informacyjnych wspierających Usługę Kluczową
 2. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 3. Dokumentacja architektury zastosowanych zabezpieczeń
-4. Dokumentacja architektury sieci. 
+4. Dokumentacja architektury sieci
 5. Baza danych konfiguracji urządzeń aktywnych
 6. Dokumentacja zmian w systemach informacyjnych
 7. Dokumentacja dotycząca monitorowania w trybie ciągłym
@@ -380,15 +380,15 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8,10,11,15 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\)
-* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\)
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8 
-* Wszystkie z wymienionych w Załączniku A do Polskiej Normy PN-EN ISO/IEC 27001
+* Artykułu 8,10,11,15 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Rozporządzenia Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8;
+* Wszystkie z wymienionych w Załączniku A do Polskiej Normy PN-EN ISO/IEC 27001.
 
 ### Kontekst w zakresie Decyzji OUK
 
-#### System bazujący na SZBI ISO-27001
+#### System zarządzania bezpieczeństwem informacji bazujący na ISO-27001
 
 1. Weryfikacja polityki bezpieczeństwa.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce za cyberbezpieczeństwo \(Dz.U. 2019 poz. 2479\)
 2. Role i odpowiedzialności w DC Deklaracja stosowania 
@@ -401,7 +401,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 9. Baza konfiguracji urządzeń / inwentaryzacja aktywów 
 10. Określenie obszarów obowiązywania SZBI \(zakres\)
 
-#### Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na wykonywanie poniższych
+#### Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na nadzór nad zabezpieczeni bezpieczeństwem następujących obszarów 
 
 1. Proces weryfikacji kandydatów \(przed zatrudnieniem\) 
 2. Podnoszenie kwalifikacji pracowników 
@@ -446,9 +446,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
+* Artykułu 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -459,7 +459,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 4. Dokumentacja szacowania ryzyka dla obiektów infrastruktury
 5. Dokumentacja zapewnienia ochrony fizycznej
 
-#### Proces zarządzania ryzykiem UK
+#### Proces zarządzania ryzykiem Usługi Kluczowej
 
 1. Powtarzalność identyfikacji ryzyka
 2. Poprawność zastosowanych działań w zakresie analizy 
@@ -486,17 +486,17 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 11, 12, 13 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo,
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10,
-* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.12, A.16,
-* Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1
+* Artykułu 8, 11, 12, 13 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo;
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Rozporządzenie Rady Ministrów z dnia 31 października 2018 r. w sprawie progów uznania incydentu za poważny \(Dz. U. poz. 2180\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10;
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.12, A.16;
+* Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1.
 
 ### Kontekst w zakresie Decyzji OUK
 
-#### Dokumentacja procesu zarządzania Incydentami
+#### Dokumentacja procesu zarządzania incydentami
 
 1. Procedury zarządzania incydentami
 2. Przyjęta taksonomia w zakresie rodzajów zagrożeń
@@ -522,7 +522,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 1. Dokumenty potwierdzające wyszukiwanie podobieństw
 2. Identyfikacja i dokumentowanie przyczyn wystąpienia incydentów
 3. Dowody świadczące o opracowywaniu i implementacji wniosków wynikających z obsługi incydentu
-4. Dowody poprawnej obsługi incydentu \(1.1.10\)
+4. Dowody poprawnej obsługi incydentu 
 5. Kontekst personelu i dokumentacji umiejętności \(Dz.U. 2019 poz. 2479  par. 1 ust. 1 pkt. 4\)
 6. Kontekst narzędzi \(Dz.U. 2019 poz. 2479  par. 2 ust. 1 pkt. 1\)
 
@@ -549,9 +549,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 
+* Artykułu 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.8, A.12, A.14, A.15, A.16.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -587,10 +587,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 
-* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.17,
+* Artykuł 8 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9;
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.17;
 * Wymagania Polskiej Normy PN-EN ISO 22301.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -640,9 +640,9 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach  6, 7, 8, 9, 10, 
+* Artykułu 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach  6, 7, 8, 9, 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -679,10 +679,10 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\)
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8, 9,10
-* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18
+* Artykułu 8, 10 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8, 9, 10;
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18.
 
 ### Kontekst w zakresie Decyzji OUK
 
@@ -713,11 +713,11 @@ W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaga
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 10, 14 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Ustawy o ochronie osób i mienia
-* Rozporządzenie Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo \(Dz.U. 2019 poz. 2479\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8,
+* Artykułu 8, 10, 14 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Ustawy z dnia 22 sierpnia 1997 o ochronie osób i mienia \(Dz.U. 1997 nr 114 poz. 740)\;
+* Rozporządzenia Ministra Cyfryzacji z 4 grudnia 2019 w sprawie warunków organizacyjnych i technicznych dla podmiotów świadczących usługi z zakresu cyberbezpieczeństwa oraz wewnętrznych struktur organizacyjnych operatorów usług kluczowych odpowiedzialnych za cyberbezpieczeństwo \(Dz.U. 2019 poz. 2479\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.11, A17.
 
 ### Kontekst w zakresie Decyzji OUK
@@ -726,7 +726,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 1. Dokumentacja i zasadność instalacji systemu zabezpieczeń \(drzwi / okna / ściany\)
 2. Dokumentacja i zasadność instalacji systemu alarmowego i antynapadowego
-3. Atestacja szafy i sejfy
+3. Atestacja szaf i sejfów
 4. Dokumentacja i zasadność konfiguracji systemu przeciwpożarowego
 5. Przechowywanie i dostęp do dokumentacji
 6. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
@@ -754,34 +754,34 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
 
-W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa informacji oraz usług wdrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia usług kluczowych.
+W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa informacji oraz usług wdrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia Usług Kluczowych.
 
 ### Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
-* Artykuł 8, 14 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\),
-* Rozporządzenie Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\),
-* Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.3,
-* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8,
-* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.15, A.17,
+* Artykułu 8, 14 ustawy z dnia 5 lipca 2018 r. o Krajowym Systemie Cyberbezpieczeństwa \(Dz. U. poz. 1560 ze zm.\);
+* Rozporządzenia Rady Ministrów z dnia 16 października 2018 r. w sprawie rodzajów dokumentacji dotyczącej cyberbezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia usługi kluczowej \(Dz. U. poz. 2080\);
+* Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.3;
+* Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8;
+* Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.15, A.17.
 
 ### Kontekst w zakresie Decyzji OUK
 
 #### Dostawcy OUK - dokumentacja
 
 1. Polityka bezpieczeństwa w relacjach z dostawcami 
-2. Standardy i wymagania nakładane na dostawców w umowach w zakresie cyberbezpieczeństwa
+2. Standardy i wymagania w zakresie cyberbezpieczeństwa nakładane na dostawców w umowach 
 3. Ocena zdolności dostawcy do zachowania ciągłości działania
 4. Bezpieczeństwo łańcucha dostaw
-5. Monitorowanie bieżące i przegląd usług świadczonych przez dostawców
-6. Umowy z w/w dostawcami \(wymagany poziom usług\) i standardy w umowach dotyczące cyberbezpieczeństwa
+5. Bieżące monitorowanie i przegląd usług świadczonych przez dostawców
+6. Umowy z dostawcami \(wymagany poziom usług\) i standardy w umowach dotyczące cyberbezpieczeństwa
 7. Rejestr kluczowych dostawców w ramach UK
 8. Wyniki audytów drugiej i trzeciej strony
-9. Dostęp do VPN i metody uwierzytelnienia 
+9. Techniki zdalnego dostępu, nadzór nad poprawnością zakres zdalnego dostępu oraz stosowane metody uwierzytelnienia 
 10. Akceptowalne użycie aktywów – lista przypadków
 
-#### Dokumentacja podmiotu Świadczący Usługi Cyberbezpieczeństwa
+#### Dokumentacja Podmiotu Świadczącego Usługi Cyberbezpieczeństwa
 
 1. Wymagania osobowe wymienione w paragrafie 1 ustęp 1 punkt 4 \(Dz.U. 2019 poz. 2479\)
 2. Wymagania w zakresie ochrony fizycznej \(Dz.U. 2019 poz. 2479\)
