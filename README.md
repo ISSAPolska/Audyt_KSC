@@ -1,9 +1,9 @@
 Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa
 ======
 
-### Metryka Sprawozdania z Audytu UKSC
+# Metryka Sprawozdania z Audytu UKSC
 
-#### Metryka Audytu:
+### Metryka Audytu:
 
 | Opis | Treść |
 | :--- | :--- |
@@ -25,7 +25,7 @@ Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpie
 | Podsektor |  |
 | Opis progu uznania Incydentu za poważny |  |
 
-#### Odpowiedzialności instytucjonalne w OUK
+### Odpowiedzialności instytucjonalne w OUK
 
 | Osoby odpowiedzialne w OUK | Imię i Nazwisko |
 | :--- | :--- |
@@ -34,7 +34,7 @@ Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpie
 | Pełnomocnik OUK |  |
 | Nadzorujący Audyt OUK |  |
 
-#### Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK
+### Odpowiedzialności procesowe \(formalne i nieformalne\) w OUK
 
 | Typ procesu / aktywności wymaganej w UKSC | Imię i Nazwisko pracownika OUK lub dane PŚUB, wyznaczonego przez Najwyższe Kierownictwo jako właściwego merytorycznie do uczestnictwa w Audycie |
 | :--- | :--- |
@@ -51,7 +51,7 @@ Szablon sprawozdania z Audytu zgodnego z ustawą o Krajowym Systemie Cyberbezpie
 | Zarządzanie systemem monitorowania w trybie ciągłym |  |
 | Zarządzanie łącznością w ramach UKSC |  |
 
-#### Informacja o audytorach wykonujących
+### Informacja o audytorach wykonujących
 
 | Funkcja Audytowa | Imię i Nazwisko | Potwierdzenie kwalifikacje \(certyfikaty, wykształcenie i doświadczenie\) | Audytowany obszar |
 | :--- | :--- | :--- | :--- |
@@ -85,8 +85,6 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 |  |  |  |
 |  |  |  |
 
-
-
 ## Podsumowanie dla kierownictwa
 
 W dniach ...... - ....... przeprowadzono Audyt cyberbezpieczeństwa na podstawie  wymagań Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
@@ -97,74 +95,53 @@ Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i w
 
 Podczas Audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ..... niezgodności o wysokim priorytecie, ..... niezgodności o średnim priorytecie oraz ..... niezgodności o niskim priorytecie. Priorytety prac odnoszą się do potencjalnych poziomów istotności i należy je rozumieć w następujący sposób:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>POZIOM ISTOTNO&#x15A;CI</b>
-      </th>
-      <th style="text-align:left"><b>INTERPRETACJA</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">KRYTYCZNY</td>
-      <td style="text-align:left">Zidentyfikowano niezgodno&#x15B;ci &#x15B;wiadcz&#x105;ce o wyst&#x105;pieniu
-        Incydentu Powa&#x17C;nego lub wskazuj&#x105;ce na nieskuteczno&#x15B;&#x107;
-        zabezpiecze&#x144; bezpo&#x15B;rednio umo&#x17C;liwiaj&#x105;c&#x105; wyst&#x105;pienie
-        Incydentu Powa&#x17C;nego</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">WYSOKI</td>
-      <td style="text-align:left">
-        <p>Wymagania, zabezpieczenia nie wdro&#x17C;one &#x2013; nie przedstawiono
-          &#x17C;adnego z wymaganych dokument&#xF3;w oraz nie istniej&#x105; wewn&#x119;trzne
-          nieformalne dzia&#x142;ania, kt&#xF3;re s&#x105; powtarzalne i spe&#x142;niaj&#x105;
-          dobre praktyki wskazane w wymaganiu.</p>
-        <p>Brak realizacji lub realizacja zada&#x144; na poziomie niskim.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x15A;REDNI</td>
-      <td style="text-align:left">
-        <p>Wymagania, zabezpieczenia cz&#x119;&#x15B;ciowo wdro&#x17C;one &#x2013;
-          zachodzi co najmniej jedna z nast&#x119;puj&#x105;cych okoliczno&#x15B;ci:</p>
-        <p>&#xB7; istnieje dokument, kt&#xF3;ry zosta&#x142; formalnie przyj&#x119;ty
-          (zatwierdzony) do stosowania, ale nie by&#x142; aktualizowany po zmianach
-          organizacyjnych lub technicznych;</p>
-        <p>&#xB7; zidentyfikowano dokument, jednak&#x17C;e nie znaleziono potwierdzenia,
-          &#x17C;e zapisy s&#x105; stosowane (przestrzegane) w praktyce lub testy
-          techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom) wykaza&#x142;y
-          istotne s&#x142;abo&#x15B;ci zabezpieczenia;</p>
-        <p>&#xB7; istniej&#x105;cy dokument nie zawiera wszystkich tre&#x15B;ci wymaganych
-          przez wymagania lub wynikaj&#x105;cych z tzw. dobrych praktyk;</p>
-        <p>&#xB7; istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
-          s&#x105; powtarzalne, jednak&#x17C;e nie w pe&#x142;ni spe&#x142;niaj&#x105;
-          dobre praktyki wskazane w wymaganiu.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">NISKI</td>
-      <td style="text-align:left">
-        <p>Istnieje(&#x105;) dokument(y) formalnie przyj&#x119;ty (zatwierdzony)
-          do stosowania, kt&#xF3;ry okre&#x15B;la spos&#xF3;b realizacji danego zabezpieczenia
-          lub testy techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom)
-          wykaza&#x142;y skuteczne funkcjonowanie zabezpieczenia lub spe&#x142;nienia
-          wymogu.</p>
-        <p>Istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
-          s&#x105; powtarzalne i w pe&#x142;ni spe&#x142;niaj&#x105; dobre praktyki
-          wskazane w wymaganiu.</p>
-        <p>Pe&#x142;na realizacja zada&#x144; lub realizacja zada&#x144; na poziomie
-          prawie pe&#x142;nym.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">NIE DOTYCZY</td>
-      <td style="text-align:left">Zakres audytu nie obejmowa&#x142; danego obszaru lub ustalenia potwierdzaj&#x105;,
-        i&#x17C; obszar nie dotyczy danej organizacji.</td>
-    </tr>
-  </tbody>
-</table>Zdaniem zespołu audytowego, najważniejszymi niezgodnościami, którymi, w pierwszej kolejności powinno zająć się Najwyższe Kierownictwo są:
+| POZIOM ISTOTNOŚCI
+       | INTERPRETACJA
+       |
+| --- | --- |
+| KRYTYCZNY | Zidentyfikowano niezgodności świadczące o wystąpieniu
+        Incydentu Poważnego lub wskazujące na nieskuteczność
+        zabezpieczeń bezpośrednio umożliwiającą wystąpienie
+        Incydentu Poważnego |
+| WYSOKI | 
+        Wymagania, zabezpieczenia nie wdrożone – nie przedstawiono
+          żadnego z wymaganych dokumentów oraz nie istnieją wewnętrzne
+          nieformalne działania, które są powtarzalne i spełniają
+          dobre praktyki wskazane w wymaganiu.
+        Brak realizacji lub realizacja zadań na poziomie niskim.
+       |
+| ŚREDNI | 
+        Wymagania, zabezpieczenia częściowo wdrożone –
+          zachodzi co najmniej jedna z następujących okoliczności:
+        · istnieje dokument, który został formalnie przyjęty
+          (zatwierdzony) do stosowania, ale nie był aktualizowany po zmianach
+          organizacyjnych lub technicznych;
+        · zidentyfikowano dokument, jednakże nie znaleziono potwierdzenia,
+          że zapisy są stosowane (przestrzegane) w praktyce lub testy
+          techniczne (jeśli zabezpieczenie podlegało testom) wykazały
+          istotne słabości zabezpieczenia;
+        · istniejący dokument nie zawiera wszystkich treści wymaganych
+          przez wymagania lub wynikających z tzw. dobrych praktyk;
+        · istnieją wewnętrzne nieformalne działania, które
+          są powtarzalne, jednakże nie w pełni spełniają
+          dobre praktyki wskazane w wymaganiu.
+       |
+| NISKI | 
+        Istnieje(ą) dokument(y) formalnie przyjęty (zatwierdzony)
+          do stosowania, który określa sposób realizacji danego zabezpieczenia
+          lub testy techniczne (jeśli zabezpieczenie podlegało testom)
+          wykazały skuteczne funkcjonowanie zabezpieczenia lub spełnienia
+          wymogu.
+        Istnieją wewnętrzne nieformalne działania, które
+          są powtarzalne i w pełni spełniają dobre praktyki
+          wskazane w wymaganiu.
+        Pełna realizacja zadań lub realizacja zadań na poziomie
+          prawie pełnym.
+       |
+| NIE DOTYCZY | Zakres audytu nie obejmował danego obszaru lub ustalenia potwierdzają,
+        iż obszar nie dotyczy danej organizacji. |
+
+Zdaniem zespołu audytowego, najważniejszymi niezgodnościami, którymi, w pierwszej kolejności powinno zająć się Najwyższe Kierownictwo są:
 
 ........
 
@@ -230,82 +207,62 @@ Szczegółowe wyniki wykonanych prac obejmują ocenę zgodności z wymaganiami U
 
 Do określenia skutków zidentyfikowanych niezgodności wykorzystano następujące skale:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>POZIOM ISTOTNO&#x15A;CI</b>
-      </th>
-      <th style="text-align:left"><b>INTERPRETACJA</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">KRYTYCZNY</td>
-      <td style="text-align:left">Zidentyfikowano niezgodno&#x15B;ci &#x15B;wiadcz&#x105;ce o wyst&#x105;pieniu
-        Incydentu Powa&#x17C;nego lub wskazuj&#x105;ce na nieskuteczno&#x15B;&#x107;
-        zabezpiecze&#x144; bezpo&#x15B;rednio umo&#x17C;liwiaj&#x105;c&#x105; wyst&#x105;pienie
-        Incydentu Powa&#x17C;nego</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">WYSOKI</td>
-      <td style="text-align:left">
-        <p>Wymagania, zabezpieczenia nie wdro&#x17C;one &#x2013; nie przedstawiono
-          &#x17C;adnego z wymaganych dokument&#xF3;w oraz nie istniej&#x105; wewn&#x119;trzne
-          nieformalne dzia&#x142;ania, kt&#xF3;re s&#x105; powtarzalne i spe&#x142;niaj&#x105;
-          dobre praktyki wskazane w wymaganiu.</p>
-        <p>Brak realizacji lub realizacja zada&#x144; na poziomie niskim.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x15A;REDNI</td>
-      <td style="text-align:left">
-        <p>Wymagania, zabezpieczenia cz&#x119;&#x15B;ciowo wdro&#x17C;one &#x2013;
-          zachodzi co najmniej jedna z nast&#x119;puj&#x105;cych okoliczno&#x15B;ci:</p>
-        <p>&#xB7; istnieje dokument, kt&#xF3;ry zosta&#x142; formalnie przyj&#x119;ty
-          (zatwierdzony) do stosowania, ale nie by&#x142; aktualizowany po zmianach
-          organizacyjnych lub technicznych;</p>
-        <p>&#xB7; zidentyfikowano dokument, jednak&#x17C;e nie znaleziono potwierdzenia,
-          &#x17C;e zapisy s&#x105; stosowane (przestrzegane) w praktyce lub testy
-          techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom) wykaza&#x142;y
-          istotne s&#x142;abo&#x15B;ci zabezpieczenia;</p>
-        <p>&#xB7; istniej&#x105;cy dokument nie zawiera wszystkich tre&#x15B;ci wymaganych
-          przez wymagania lub wynikaj&#x105;cych z tzw. dobrych praktyk;</p>
-        <p>&#xB7; istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
-          s&#x105; powtarzalne, jednak&#x17C;e nie w pe&#x142;ni spe&#x142;niaj&#x105;
-          dobre praktyki wskazane w wymaganiu.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">NISKI</td>
-      <td style="text-align:left">
-        <p>Istnieje(&#x105;) dokument(y) formalnie przyj&#x119;ty (zatwierdzony)
-          do stosowania, kt&#xF3;ry okre&#x15B;la spos&#xF3;b realizacji danego zabezpieczenia
-          lub testy techniczne (je&#x15B;li zabezpieczenie podlega&#x142;o testom)
-          wykaza&#x142;y skuteczne funkcjonowanie zabezpieczenia lub spe&#x142;nienia
-          wymogu.</p>
-        <p>Istniej&#x105; wewn&#x119;trzne nieformalne dzia&#x142;ania, kt&#xF3;re
-          s&#x105; powtarzalne i w pe&#x142;ni spe&#x142;niaj&#x105; dobre praktyki
-          wskazane w wymaganiu.</p>
-        <p>Pe&#x142;na realizacja zada&#x144; lub realizacja zada&#x144; na poziomie
-          prawie pe&#x142;nym.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">NIE DOTYCZY</td>
-      <td style="text-align:left">Zakres audytu nie obejmowa&#x142; danego obszaru lub ustalenia potwierdzaj&#x105;,
-        i&#x17C; obszar nie dotyczy danej organizacji.</td>
-    </tr>
-  </tbody>
-</table>Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego Audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami UKSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach Art 42 UKSC.
+| POZIOM ISTOTNOŚCI
+       | INTERPRETACJA
+       |
+| --- | --- |
+| KRYTYCZNY | Zidentyfikowano niezgodności świadczące o wystąpieniu
+        Incydentu Poważnego lub wskazujące na nieskuteczność
+        zabezpieczeń bezpośrednio umożliwiającą wystąpienie
+        Incydentu Poważnego |
+| WYSOKI | 
+        Wymagania, zabezpieczenia nie wdrożone – nie przedstawiono
+          żadnego z wymaganych dokumentów oraz nie istnieją wewnętrzne
+          nieformalne działania, które są powtarzalne i spełniają
+          dobre praktyki wskazane w wymaganiu.
+        Brak realizacji lub realizacja zadań na poziomie niskim.
+       |
+| ŚREDNI | 
+        Wymagania, zabezpieczenia częściowo wdrożone –
+          zachodzi co najmniej jedna z następujących okoliczności:
+        · istnieje dokument, który został formalnie przyjęty
+          (zatwierdzony) do stosowania, ale nie był aktualizowany po zmianach
+          organizacyjnych lub technicznych;
+        · zidentyfikowano dokument, jednakże nie znaleziono potwierdzenia,
+          że zapisy są stosowane (przestrzegane) w praktyce lub testy
+          techniczne (jeśli zabezpieczenie podlegało testom) wykazały
+          istotne słabości zabezpieczenia;
+        · istniejący dokument nie zawiera wszystkich treści wymaganych
+          przez wymagania lub wynikających z tzw. dobrych praktyk;
+        · istnieją wewnętrzne nieformalne działania, które
+          są powtarzalne, jednakże nie w pełni spełniają
+          dobre praktyki wskazane w wymaganiu.
+       |
+| NISKI | 
+        Istnieje(ą) dokument(y) formalnie przyjęty (zatwierdzony)
+          do stosowania, który określa sposób realizacji danego zabezpieczenia
+          lub testy techniczne (jeśli zabezpieczenie podlegało testom)
+          wykazały skuteczne funkcjonowanie zabezpieczenia lub spełnienia
+          wymogu.
+        Istnieją wewnętrzne nieformalne działania, które
+          są powtarzalne i w pełni spełniają dobre praktyki
+          wskazane w wymaganiu.
+        Pełna realizacja zadań lub realizacja zadań na poziomie
+          prawie pełnym.
+       |
+| NIE DOTYCZY | Zakres audytu nie obejmował danego obszaru lub ustalenia potwierdzają,
+        iż obszar nie dotyczy danej organizacji. |
+
+
+Poszczególne niezgodności powinny zostać usunięte zgodnie z wdrożonym w organizacji procesem zarządzania ryzykiem. Terminowość i skuteczność wdrożenia rekomendacji powstałych w wyniku niniejszego Audytu powinna stanowić wkład w kolejne Audyty zgodności z wymaganiami UKSC. Może też być elementem przeglądów realizowanych przed podmioty nadzorcze w ramach Art 42 UKSC.
 
 W ramach z każdego weryfikowanych obszarów zgrupowano obserwacje powstałe w wyniku analizy dokumentacji, obserwacji i wywiadów, testów przeprowadzonych w ramach Audytu oraz analizy innych przedstawionych wyników testów technicznych.
 
-### Obszar 1: Organizacja zarządzania bezpieczeństwem informacji
+# Obszar 1: Organizacja zarządzania bezpieczeństwem informacji
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie stworzenia i utrzymywania systemu zarządzania zapewniającego zgodność z UKSC. 
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -317,7 +274,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 5, 7, 9 i 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6 i A.18.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 ### Dokumentacja potwierdzająca wykonane działania zgodnie z harmonogramem wskazanym w ustawie:
 
@@ -345,6 +302,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 11. Dokumentacja zabezpieczeń fizycznych i środowiskowych
 12. Rejestr dostępu do dokumentacji systemu informacyjnego
 
+## Wnioski z prac audytowych
+
 ### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
@@ -358,7 +317,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 2: Procesy zarządzania bezpieczeństwem informacji
+# Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami bezpieczeńśtwa informacji w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwem informacji.
 
@@ -370,7 +329,7 @@ W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaga
 | :--- | :--- |
 |  |  |
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -380,9 +339,9 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8;
 * Wszystkie z wymienionych w Załączniku A do Polskiej Normy PN-EN ISO/IEC 27001.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
-#### System zarządzania bezpieczeństwem informacji bazujący na ISO-27001
+### System zarządzania bezpieczeństwem informacji bazujący na ISO-27001
 
 1. Weryfikacja polityki bezpieczeństwa.  Określone i zakomunikowane cele działania systemu w odpowiedzialnej komórce za cyberbezpieczeństwo \(Dz.U. 2019 poz. 2479\)
 2. Role i odpowiedzialności w DC Deklaracja stosowania 
@@ -395,7 +354,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 9. Baza konfiguracji urządzeń / inwentaryzacja aktywów 
 10. Określenie obszarów obowiązywania SZBI \(zakres\)
 
-#### Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na nadzór nad zabezpieczeni bezpieczeństwem następujących obszarów 
+### Pracownicy CSIRT/SOC/DC – dokumentacja wskazująca na nadzór nad zabezpieczeni bezpieczeństwem następujących obszarów 
 
 1. Proces weryfikacji kandydatów \(przed zatrudnieniem\) 
 2. Podnoszenie kwalifikacji pracowników 
@@ -411,13 +370,13 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 12. Przebieg zabezpieczenia śladów kryminalistycznych 
 13. Narzędzia do przeprowadzania analizy szkodliwości kodu
 
-#### Dostęp do wiedzy z zakresu cyberbezpieczeństwa \(Art. 9.1.2\) – dokumentacja poświadczająca
+### Dostęp do wiedzy z zakresu cyberbezpieczeństwa \(Art. 9.1.2\) – dokumentacja poświadczająca
 
 1. Dokumentacja Identyfikacji odbiorcy 
 2. Dokumentacja przeprowadzonego szkolenia 
 3. Dokumentacja Komunikatów
 
-#### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+## Wnioski z prac audytowych
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -432,11 +391,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 3: Zarządzanie ryzykiem
+# Obszar 3: Zarządzanie ryzykiem
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie poprawności stosowanej metodyki zarządzania ryzykiem oraz kompletności procesu zarządzania ryzykiem poczynając od identyfikacji ryzyka aż po nadzór nad wprowadzeniem rekomendacji.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -445,7 +404,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8, 9, 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.18.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 1. Procedury związane z identyfikacją ryzyka
 2. Procedury związane z przeglądem ryzyka
@@ -459,6 +418,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 2. Poprawność zastosowanych działań w zakresie analizy 
 3. Adekwatność w ocena ryzyka
 
+## Wnioski z prac audytowych
+
 ### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
@@ -472,11 +433,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 4: Monitorowanie i reagowanie na incydenty bezpieczeństwa
+# Obszar 4: Monitorowanie i reagowanie na incydenty bezpieczeństwa
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami w zakresie zdefiniowania wymagań, wdrożenia i konfiguracji narzędzi, ciągłego monitorowania i skutecznego reagowania na potencjalne incydenty.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -488,7 +449,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.12, A.16;
 * Wymagania Polskiej Normy PN-EN ISO 22301 w rozdziałach 8.4, 9.1.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania incydentami
 
@@ -520,7 +481,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 5. Kontekst personelu i dokumentacji umiejętności \(Dz.U. 2019 poz. 2479  par. 1 ust. 1 pkt. 4\)
 6. Kontekst narzędzi \(Dz.U. 2019 poz. 2479  par. 2 ust. 1 pkt. 1\)
 
-#### Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
+## Wnioski z prac audytowych
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -535,11 +496,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 5: Zarządzanie zmianą
+# Obszar 5: Zarządzanie zmianą
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie identyfikowania potrzeby zmian, ustalania wymagań bezpieczeństwa, wyboru rozwiązań, dokumentowania, testowania i wdrażania zmian.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -548,7 +509,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.8, A.12, A.14, A.15, A.16.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania zmianą
 
@@ -560,6 +521,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 6. Wyniki audytów w procesie zarządzania zmianą
 7. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 
+## Wnioski z prac audytowych
+
 ### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
@@ -573,11 +536,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 6: Zarządzanie ciągłością działania
+# Obszar 6: Zarządzanie ciągłością działania
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie dokonania analizy i zdefiniowania wymagań dla ciągłości działania, wdrożenia rozwiązań zapasowych i redundantnych, testowaniu zdolności, przygotowania odpowiednich umów z dostawcami oraz nadzorowaniu ich sposobu zapewnienia ciągłości działania.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -587,7 +550,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.17;
 * Wymagania Polskiej Normy PN-EN ISO 22301.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania ciągłością działania
 
@@ -611,7 +574,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 18. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 19. Dokumentacja wyników ocen i pomiarów \(w tym testów\) SZCD i jego elementów oraz działań korygujących \(oraz ich status\)
 
-
+## Wnioski z prac audytowych
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -626,11 +589,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 7: Utrzymanie systemów informacyjnych
+# Obszar 7: Utrzymanie systemów informacyjnych
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informacyjnych.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -639,7 +602,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach  6, 7, 8, 9, 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Dokumentacja procesu zarządzania podatnościami i zagrożeniami
 
@@ -652,6 +615,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 7. Współpraca z osobami odpowidzialnymi za  procesy zarządzania incydentami
 8. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
 
+## Wnioski z prac audytowych
+
 ### Niezgodności zidentyfikowane w czasie audytu
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
@@ -665,11 +630,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 8: Utrzymanie i rozwój systemów informacyjnych
+# Obszar 8: Utrzymanie i rozwój systemów informacyjnych
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie ustalania i nadzorowania wymagań bieżącej eksploatacji systemów informatycznych wykorzystywanych do zapewniania, monitorowania i reagowania na incydenty bezpieczeństwa.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -678,13 +643,15 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8, 9, 10;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001A.5, A.6, A.8, A.9, A.10, A.11, A.12, A.14, A.14, A.18.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Środowisko rozwojowe - dokumentacja
 
 1. Procedury migracji / tworzenia danych testowych
 2. Dostęp do środowisk DEV / TEST / QA – zasady udokumentowane
 3. Rozliczalność dostępów - procedury
+
+## Wnioski z prac audytowych
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -699,11 +666,11 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 9: Bezpieczeństwo fizyczne
+# Obszar 9: Bezpieczeństwo fizyczne
 
 W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie skuteczności procesu ochrony fizycznej i środowiskowej.
 
-### Kontekst w zakresie przepisów i normy
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -714,7 +681,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 8;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.11, A17.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Pomieszczenia CSIRT/SOC/Działu
 
@@ -731,7 +698,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 11. Dokumentacja i testy procedur ewakuacyjnych 
 12. Dokumentacja i procedury kontaktu ze służbami 
 
-
+## Wnioski z prac audytowych
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -746,11 +713,12 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-### Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
+# Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
 
 W ramach audytu zespół koncentrował się na potwierdzeniu zgodności w wymaganiami w zakresie definiowania i nadzorowania stosowania wymagań bezpieczeństwa informacji i ciągłości działania przez dostawców usług bezpieczeństwa informacji oraz usług wdrażania i utrzymywania systemów informatycznych wykorzystywanych do świadczenia Usług Kluczowych.
 
-### Kontekst w zakresie przepisów i normy
+
+## Kontekst w zakresie przepisów i normy
 
 Zakres prac obejmował między innymi adekwatne wymagania:
 
@@ -760,7 +728,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 * Polskiej Normy PN-EN ISO/IEC 27001 w rozdziałach 6, 7, 8;
 * Załącznika A do Polskiej Normy PN-EN ISO/IEC 27001 w wymaganiach A.6, A.15, A.17.
 
-### Kontekst w zakresie Decyzji OUK
+## Kontekst w zakresie Decyzji OUK
 
 #### Dostawcy OUK - dokumentacja
 
@@ -782,7 +750,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 3. Zastosowane systemy zabezpieczeń w zakresie dostępów do dokumentacji  \(Dz.U. 2019 poz. 2479\)
 4. Zastosowane systemy zabezpieczeń teleinformatycznych w zakresie pracy zdalnej \(Dz.U. 2019 poz. 2479\)
 
-
+## Wnioski z prac audytowych
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
@@ -797,7 +765,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | :--- | :--- |
 |  |  |
 
-## Skróty i definicje
+# Skróty i definicje
 
 <table>
   <thead>
@@ -1062,7 +1030,9 @@ Zakres prac obejmował między innymi adekwatne wymagania:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>Notatka Licencyjna: `Dokument utworzony na bazie szablonu audytu przygotowanego przez członków „ISSA Polska Stowarzyszenie ds. Bezpieczeństwa Systemów Informacyjnych”, „Instytut Audytorów Wewnętrznych IIA Polska” na licencji MIT (https://pl.wikipedia.org/wiki/Licencja_MIT)`
+</table>
+
+Notatka Licencyjna: `Dokument utworzony na bazie szablonu audytu przygotowanego przez członków „ISSA Polska Stowarzyszenie ds. Bezpieczeństwa Systemów Informacyjnych”, „Instytut Audytorów Wewnętrznych IIA Polska” na licencji MIT (https://pl.wikipedia.org/wiki/Licencja_MIT)`
 
 Uwagi i poprawki: [https://github.com/issa-polska/Audyt\_KSC/issues](https://github.com/issa-polska/Audyt_KSC/issues)
 
