@@ -231,14 +231,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
@@ -305,14 +310,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 3: Zarządzanie ryzykiem
 
@@ -335,7 +345,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 4. Dokumentacja szacowania ryzyka dla obiektów infrastruktury
 5. Dokumentacja zapewnienia ochrony fizycznej
 
-#### Proces zarządzania ryzykiem Usługi Kluczowej
+### Proces zarządzania ryzykiem Usługi Kluczowej
 
 1. Powtarzalność identyfikacji ryzyka
 2. Poprawność zastosowanych działań w zakresie analizy 
@@ -347,14 +357,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 4: Monitorowanie i reagowanie na incydenty bezpieczeństwa
 
@@ -374,7 +389,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Dokumentacja procesu zarządzania incydentami
+### Dokumentacja procesu zarządzania incydentami
 
 1. Procedury zarządzania incydentami
 2. Przyjęta taksonomia w zakresie rodzajów zagrożeń
@@ -388,14 +403,14 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 10. Potwierdzenie działań wynikających z komunikacji z procesem szacowania ryzyka SI\_OUK
 11. Dokumentacja doskonalenia procesu zarządzania incydentami i wniosków \(w oparciu o zidentyfikowane słabości\)
 
-#### Monitorowanie cyberbezpieczeństwa
+### Monitorowanie cyberbezpieczeństwa
 
 1. Monitorowanie i wykrycie incydentów w zakresie poufności
 2. Monitorowanie i wykrycie incydentów w zakresie dostępności
 3. Monitorowanie i wykrycie incydentów w zakresie integralność
 4. Monitorowanie i wykrycie incydentów w zakresie autentyczności
 
-#### Poprawność procesu z UKSC
+### Poprawność procesu z UKSC
 
 1. Dokumenty potwierdzające wyszukiwanie podobieństw
 2. Identyfikacja i dokumentowanie przyczyn wystąpienia incydentów
@@ -410,14 +425,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 5: Zarządzanie zmianą
 
@@ -434,7 +454,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Dokumentacja procesu zarządzania zmianą
+### Dokumentacja procesu zarządzania zmianą
 
 1. Rejestr wyjątków braku aktualizacji
 2. Wyniki skanowania podatności ze strony sieci
@@ -450,14 +470,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 6: Zarządzanie ciągłością działania
 
@@ -475,7 +500,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Dokumentacja procesu zarządzania ciągłością działania
+### Dokumentacja procesu zarządzania ciągłością działania
 
 1. Harmonogram i rodzaje testów ciągłości działania 
 2. Wyniki testów ciągłości działania
@@ -503,14 +528,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 7: Utrzymanie systemów informacyjnych
 
@@ -527,7 +557,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Dokumentacja procesu zarządzania podatnościami i zagrożeniami
+### Dokumentacja procesu zarządzania podatnościami i zagrożeniami
 
 1. Opis procesu
 2. Harmonogramy skanowania podatności 
@@ -544,14 +574,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 8: Utrzymanie i rozwój systemów informacyjnych
 
@@ -568,7 +603,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Środowisko rozwojowe - dokumentacja
+### Środowisko rozwojowe - dokumentacja
 
 1. Procedury migracji / tworzenia danych testowych
 2. Dostęp do środowisk DEV / TEST / QA – zasady udokumentowane
@@ -580,14 +615,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 9: Bezpieczeństwo fizyczne
 
@@ -606,7 +646,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Pomieszczenia CSIRT/SOC/Działu
+### Pomieszczenia CSIRT/SOC/Działu
 
 1. Dokumentacja i zasadność instalacji systemu zabezpieczeń \(drzwi / okna / ściany\)
 2. Dokumentacja i zasadność instalacji systemu alarmowego i antynapadowego
@@ -625,16 +665,21 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ### Niezgodności zidentyfikowane w czasie audytu
 
-| ID | Zdarzenie niepożądane | Opis ryzyka | Piorytet |
+| ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Obszar 10: Zarządzanie bezpieczeństwem i ciągłością działania łańcucha usług
 
@@ -653,7 +698,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Kontekst w zakresie Decyzji OUK
 
-#### Dostawcy OUK - dokumentacja
+### Dostawcy OUK - dokumentacja
 
 1. Polityka bezpieczeństwa w relacjach z dostawcami 
 2. Standardy i wymagania w zakresie cyberbezpieczeństwa nakładane na dostawców w umowach 
@@ -666,7 +711,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 9. Techniki zdalnego dostępu, nadzór nad poprawnością zakres zdalnego dostępu oraz stosowane metody uwierzytelnienia 
 10. Akceptowalne użycie aktywów – lista przypadków
 
-#### Dokumentacja Podmiotu Świadczącego Usługi Cyberbezpieczeństwa
+### Dokumentacja Podmiotu Świadczącego Usługi Cyberbezpieczeństwa
 
 1. Wymagania osobowe wymienione w paragrafie 1 ustęp 1 punkt 4 \(Dz.U. 2019 poz. 2479\)
 2. Wymagania w zakresie ochrony fizycznej \(Dz.U. 2019 poz. 2479\)
@@ -679,14 +724,19 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 | ID | Zdarzenie niepożądane | Opis ryzyka | Priorytet |
 | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 ### Zalecenia
 
-| Obserwacja | Rekomendacje |
-| :--- | :--- |
-|  |  |
+| ID | Obserwacja | Rekomendacje |
+| :--- | :--- | :--- |
+|1 |  |  |
+|2 |  |  |
+|3 |  |  |
+|4 |  |  |
 
 # Skróty i definicje
 
