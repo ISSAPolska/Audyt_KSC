@@ -248,7 +248,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 
 ## Obszar 2: Procesy zarządzania bezpieczeństwem informacji
 
-W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami bezpieczeńśtwa informacji w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwem informacji.
+W ramach Audytu zespół koncentrował się na potwierdzeniu zgodności z wymaganiami bezpieczeństwa informacji w zakresie poprawności ich zdefiniowania, wdrożenia, eksploatacji i nadzorowania procesów zapewniających bezpieczeństwem informacji.
 
 |  |  |
 | :--- | :--- |
@@ -566,7 +566,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 4. Wyniki zmiany priorytetyzacji w raportach 
 5. Aktualny status realizacji postępowania z podatnościami - lista
 6. Procedury związane ze z identyfikowaniem \(wykryciem\) podatności
-7. Współpraca z osobami odpowidzialnymi za  procesy zarządzania incydentami
+7. Współpraca z osobami odpowiedzialnymi za  procesy zarządzania incydentami
 8. Potwierdzenie działań wynikających z komunikacji z szacowaniem ryzyka SI\_OUK
 
 ### Wnioski z prac audytowych
@@ -778,6 +778,8 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | Właściciel procesu zarządzanie środkami technicznymi | Osoba odpowiedzialna u OUK za wypełnianie obowiązków operatora w zakresie artykułu 8 punkt 2 w zakresie wdrożenie odpowiednich i proporcjonalnych do oszacowanego ryzyka środków technicznych uwzględniających najnowszy stan wiedzy zabezpieczający systemy informacyjne wykorzystywane do świadczenia usługi kluczowej. |
 | Właściciel procesu zarządzanie środkami organizacyjnymi | Osoba odpowiedzialna u OUK za wypełnianie obowiązków operatora w zakresie artykułu 8 punkt 2 w zakresie wdrożenie odpowiednich i proporcjonalnych do oszacowanego ryzyka środków organizacyjnych uwzględniających najnowszy stan wiedzy zabezpieczający systemy informacyjne wykorzystywane do świadczenia usługi kluczowej. |
 | SI\_OUK | System informacyjny/systemy informacyjne operatora usługi kluczowej, od którego zależne jest świadczenie usługi kluczowej. |
+| SZBI | System Zarządzania Bezpieczeństwem Informacji |
+| SZCD | System Zarządzania Ciągłością Działania |
 
 Notatka Licencyjna: `Dokument utworzony na bazie szablonu audytu przygotowanego przez członków „ISSA Polska Stowarzyszenie ds. Bezpieczeństwa Systemów Informacyjnych”, „Instytut Audytorów Wewnętrznych IIA Polska” na licencji MIT (https://pl.wikipedia.org/wiki/Licencja_MIT)`
 
