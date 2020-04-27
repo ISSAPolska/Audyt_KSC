@@ -64,7 +64,7 @@
 | Audytor bezpieczeństwa procesów biznesowych |  |  |  |
 | Audytor systemów typu ICS / SCADA / OT |  |  |  |
 
-Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardówm audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
+Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardów audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
 
 ### Niezgodności z poprzednich dwóch audytów UKSC
 
@@ -90,7 +90,7 @@ Audyt poprzedni do poprzedniego \(jeśli dotyczy\) z dnia:
 
 W dniach ...... - ....... przeprowadzono Audyt cyberbezpieczeństwa na podstawie wymagań Ustawy o Krajowym Systemie Cyberbezpieczeństwa \(Dz.U. 2018 poz. 1560\). Prace audytowe zostały przeprowadzone przez ...... zgodnie z umową z dnia ......
 
-Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i zostały przeprowadzone w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców.
+Pierwszy etap prac polegał na "Zrozumieniu kontekstu działania organizacji oraz analizy dokumentacji" i został przeprowadzony w dniach ....... - ....... . Na podstawie dowodów audytowych udało się zidentyfikować .... niezgodności oraz zaplanowano drugi etap prac polegający na " Testach skuteczności funkcjonowania mechanizmów kontrolnych". Audytowi poddano ..... procesów w ....... lokalizacjach oraz działalność .... dostawców i usługodawców.
 
 Zgromadzone dowody pozwalają /nie pozwalają na wydanie opinii audytorskiej i wydajemy opinię …….. \(pozytywną, pozytywną z zastrzeżeniami, negatywną\) / odstępujemy od badania.
 
