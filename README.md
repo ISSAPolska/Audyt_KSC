@@ -787,5 +787,5 @@ Uwagi i poprawki: [https://github.com/issa-polska/Audyt\_KSC/issues](https://git
 
 Strona Projektu: [https://issapolska.github.io/Audyt\_KSC/](https://issapolska.github.io/Audyt_KSC/)
 
-Kontakt mailowy:  ksc@issa.org.pl
+Kontakt mailowy: ksc@issa.org.pl
 
