@@ -64,7 +64,7 @@
 | Audytor bezpieczeństwa procesów biznesowych |  |  |  |
 | Audytor systemów typu ICS / SCADA / OT |  |  |  |
 
-Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardów audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
+Granica lskdcnsldcknsdlnsdc konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardów audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
 
 ### Niezgodności z poprzednich dwóch audytów UKSC
 
@@ -769,7 +769,7 @@ Zakres prac obejmował między innymi adekwatne wymagania:
 | Organ właściwy | Organami właściwymi do spraw cyberbezpieczeństwa są organy administracji państwowej wymienione w art. 41 pkt 1-9 UKSC. |
 | Zarządzanie incydentem | Bieżący i udokumentowany proces ogólnego postępowania w trakcie obsługi incydentu polegającego co najmniej na podejmowaniu działań i dokumentowania z podziałem na fazy: wyszukiwanie powiązań między incydentami, usuwanie przyczyn ich wystąpienia opracowywanie wniosków wynikających z obsługi incydentu |
 | Szacowanie ryzyka | bieżące prace polegające na ocenie sytuacji w zarządzanej cyberprzestrzeni polegające co najmniej na: identyfikacji analizie ocenie ryzyka |
-| Obsługa incydentu | szczegółowy zestaw czynności wykonywanych w sposób powtarzalny i udokumentowany, a składający się z co najmniej faz: wykrywanie rejestrowanie analizowanie klasyfikowanie priorytetyzację podejmowanie działań naprawczych ograniczenie skutków incydentu |
+| Obsługa incydentu | szczegółowy zestaw czynności wykonywanych w sposób powtarzalny i udokumentowany, a składający się z co najmniej faz: wykrywanie rejestrowanie analizowanie klasyfikowanie priorytetyzację podejmowanie działań naprawczych og.x.xc. x c.xk m.skfndl/n slkcmsdlckmsdcm raniczenie skutków incydentu |
 | Osoba do kontaktu | Osoba odpowiedzialną za utrzymywanie kontaktów z podmiotami krajowego systemu cyberbezpieczeństwa, ze szczególnym uwzględnieniem zespołów CSIRT i organów właściwych. |
 | Właściciel procesu zarządzania ryzykiem | Osoba odpowiedzialna u OUK za wypełnianie obowiązków operatora w zakresie artykułu 8 punkt 1. |
 | Właściciel procesu zarządzania incydentem | Osoba odpowiedzialna u OUK za wypełnianie obowiązków operatora w zakresie artykułu 8 punkt 4 |
